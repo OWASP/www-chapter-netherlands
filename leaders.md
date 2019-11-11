@@ -1,4 +1,7 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Edwin Gozeling](mailto://edwin.gozeling@owasp.org)
+* [Joren Poll](mailto://joren.poll@owasp.org)
+* [Martin Knobloch](mailto://martin.knobloch@owasp.org)
+* [Tom Wirschell](mailto://tom.wirschell@owasp.org)
+
+[Mail the board](mailto://netherlands@owasp.org)
