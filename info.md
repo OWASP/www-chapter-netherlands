@@ -1,13 +1,9 @@
 ### netherlands Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+* 
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Social Links
+* [Twitter @owasp_NL](https://twitter.com/owasp_NL)
+* [Meetup](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/)
 
 ### Code Repository
 * [repo](#)
