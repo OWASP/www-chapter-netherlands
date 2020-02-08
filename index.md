@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Netherlands
-tags: Netherlands
+tags: netherlands
 region: Europe
 
 ---
