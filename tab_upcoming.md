@@ -1,4 +1,3 @@
-
 ---
 title: Upcoming
 displaytext: Upcoming Events
