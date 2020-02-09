@@ -14,11 +14,7 @@ tags: netherlands
 * [2015](#2015)
 
 ## 2019
----
-
-June 18, 2019
-
----
+#### June 18, 2019
 [https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/261811435/](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/261811435/)
 
 18:30 - 19:00 Dinner  
