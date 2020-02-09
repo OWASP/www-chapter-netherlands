@@ -14,9 +14,8 @@ tags: netherlands
 * [2015](#2015)
 
 ## 2019
-#### June 18, 2019
 
-{% include events/2019/20190618.md %}
+{% include events/2019/20190618.md %}  
 {% include events/2019/20190117.md %}
 
 ## 2018
