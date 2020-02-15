@@ -9,8 +9,8 @@ tags: netherlands
 
 {% include events/2020/20020402.md %}
 
-### May 14th, 2020
+{% include events/2020/20020514.md %}
 
-### September 17th, 2020
+{% include events/2020/20020917.md %}
 
-### November 26th and 27th 2020, BeNeLux Days
+{% include events/2020/20021126-27.md %}
