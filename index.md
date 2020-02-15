@@ -16,3 +16,5 @@ region: Europe
 * Speakers
 * Locations
 * Volunteers
+
+{% include sponsors.md %}
