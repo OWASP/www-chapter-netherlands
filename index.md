@@ -9,6 +9,7 @@ region: Europe
 
 
 ## News
+* **Scheduled meetings are postponed. Check [this page](https://owasp.org/www-chapter-netherlands/#div-upcoming)/[the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
 * **OWASP BeNeLux Days 2020**
 
 ## Support the chapter
