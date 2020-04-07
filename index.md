@@ -9,7 +9,7 @@ region: Europe
 
 
 ## News
-* **Next thursday (April 9th) there is a video presentation about SKF news by Riccardo ten Cate. Watch the livestream at [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA)**
+* **Next thursday (April 9th) there is a video presentation about SKF news by Riccardo ten Cate. Watch the livestream at [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA).**
 * **Scheduled meetings are postponed. Check the "Upcoming Events" tab or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
 * **OWASP BeNeLux Days 2020**
 
