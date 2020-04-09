@@ -6,7 +6,6 @@ tab: true
 order: 2
 tags: netherlands
 ---
-**Scheduled meetings are postponed. Check this page or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
 
 {% include events/2020/20200409.md %}
 
