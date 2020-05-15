@@ -15,7 +15,9 @@ tags: netherlands
 * [2015](#2015)
 
 ## 2020
-[April 9, 2020](#april-9-2020)
+[May 14, 2020](#may-14-2020) | [April 9, 2020](#april-9-2020)
+
+{% include events/2020/20200514.md %}
 
 {% include events/2020/20200409.md %}
 
