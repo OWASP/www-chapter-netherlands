@@ -9,11 +9,14 @@ region: Europe
 
 
 ## News
-* **OWASP BeNeLux Days 2020, 23-26 November 2020: [Register on EventBrite](https://owasp-appsec-benelux-days-2020.eventbrite.com/), details on [https://www.owaspbenelux.eu](https://www.owaspbenelux.eu)**
-* **Tomorrow (May 14th) at 20:00 there is a video presentation about the Mobile Security Testing Guide and the Mobile Application Security Verification Standard by Jeroen Willemsen. Watch the livestream at [https://youtu.be/cuB8TNT0rMw](https://youtu.be/cuB8TNT0rMw).**
-* **Next thursday (April 9th) there is a video presentation about SKF news by Riccardo ten Cate. Watch the livestream at [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA).**
-* **Scheduled meetings are postponed. Check the "Upcoming Events" tab or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
-* **OWASP BeNeLux Days 2020**
+* **Our neighbours to the south ([Belgium](https://www.owasp.org/www-chapter-belgium)) is holding a series of online events, on the third thursday of every month.
+* **We are working on providing events in between, the first thursday of every month.** (work in progress)
+* **Scheduled physical meetings are postponed. Check the "Upcoming Events" tab or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
+
+## Past events
+* **OWASP BeNeLux Days 2020, 23-26 November 2020: details on [https://www.owaspbenelux.eu](https://www.owaspbenelux.eu)**
+* **May 14th 2020, there was a video presentation about the Mobile Security Testing Guide and the Mobile Application Security Verification Standard by Jeroen Willemsen. Watch the presentation at [https://youtu.be/cuB8TNT0rMw](https://youtu.be/cuB8TNT0rMw).**
+* **April 9th 2020, there was a video presentation about SKF news by Riccardo ten Cate. Watch the presentation [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA).**
 
 ## Support the chapter
 * **Speakers**:    
