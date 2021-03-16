@@ -9,7 +9,7 @@ region: Europe
 
 
 ## News
-* **Our neighbours to the south ([Belgium](https://www.owasp.org/www-chapter-belgium)) is holding a series of online events, on the third thursday of every month.
+* **Our neighbours to the south ([Belgium](https://www.owasp.org/www-chapter-belgium)) is holding a series of online events, on the third thursday of every month.**
 * **We are working on providing events in between, the first thursday of every month.** (work in progress)
 * **Scheduled physical meetings are postponed. Check the "Upcoming Events" tab or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
 
