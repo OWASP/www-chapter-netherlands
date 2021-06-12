@@ -15,7 +15,9 @@ tags: netherlands
 * [2015](#2015)
 
 ## 2020
-[May 14, 2020](#may-14-2020) | [April 9, 2020](#april-9-2020)
+[November 23-27, 2020](#november-23-27-2020-benelux-days) | [May 14, 2020](#may-14-2020) | [April 9, 2020](#april-9-2020)
+
+{% include events/2020/20201123-26.md %}
 
 {% include events/2020/20200514.md %}
 
