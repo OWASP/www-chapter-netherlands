@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Netherlands
 tags: netherlands
 region: Europe
+meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 ---
 
@@ -12,6 +13,14 @@ region: Europe
 * **Our neighbours to the south ([Belgium](https://www.owasp.org/www-chapter-belgium)) is holding a series of online events, on the third thursday of every month.**
 * **We are working on providing events in between, the first thursday of every month.** (work in progress)
 * **Scheduled physical meetings are postponed. Check the "Upcoming Events" tab or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Netherlands Meetup Group](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Past events
 * **OWASP BeNeLux Days 2020, 23-26 November 2020: details on [https://www.owaspbenelux.eu](https://www.owaspbenelux.eu)**
