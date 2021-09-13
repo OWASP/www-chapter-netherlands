@@ -10,7 +10,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 
 ## News
-* **On the 30th of September OWASP Netherlands will organize a pup quiz. Check the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/280753395/) for more information.**
+* **On the 30th of September OWASP Netherlands will organize a pub quiz. Check the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/280753395/) for more information.**
 * **Our neighbours to the south ([Belgium](https://www.owasp.org/www-chapter-belgium)) is holding a series of online events, on the third thursday of every month.**
 * **We are working on providing events in between, the first thursday of every month.** (work in progress)
 * **Scheduled physical meetings are postponed. Check the "Upcoming Events" tab or [the mailing list](mailto:netherlands-chapter@owasp.org) for new meetings.**
