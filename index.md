@@ -10,6 +10,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 
 ## News
+* **On the 20th of January OWASP Netherlands will have an online Meetup. The Meetup will be streamed on YouTube. Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/283101873/) for more information.**
 * **On the 28th of October OWASP Netherlands will have an online Meetup. The Meetup will be streamed on YouTube. Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/281228990/) for more information.**
 * **On the 30th of September OWASP Netherlands will organize a pub quiz. Check the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/280753395/) for more information.**
 * **Our neighbours to the south ([Belgium](https://www.owasp.org/www-chapter-belgium)) is holding a series of online events, on the third thursday of every month.**
@@ -19,8 +20,6 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 ### Upcoming Meetings
 
 We schedule our meetings on the [OWASP Netherlands Meetup Group](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/)
-
-{% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
