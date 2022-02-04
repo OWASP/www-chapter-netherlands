@@ -7,8 +7,6 @@ order: 2
 tags: netherlands
 ---
 
-{% include events/2022/20220120.md %}
-
 {% include events/2022/20220217.md %}
 
 {% include events/2022/20220317.md %}
