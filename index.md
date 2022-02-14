@@ -10,6 +10,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 
 ## News
+* **On the 17th of February OWASP Netherlands will have an online Meetup. The Meetup will be streamed on YouTube. Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/nl-NL/OWASP-Chapter-Netherlands-Meetup/events/283720690/) for more information.**
 * **On the 20th of January OWASP Netherlands will have an online Meetup. The Meetup will be streamed on YouTube. Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/283101873/) for more information.**
 * **On the 28th of October OWASP Netherlands will have an online Meetup. The Meetup will be streamed on YouTube. Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/281228990/) for more information.**
 * **On the 30th of September OWASP Netherlands will organize a pub quiz. Check the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/280753395/) for more information.**
