@@ -11,7 +11,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 ## News
 * **Links to the recordings of the February and March presentations are added.**
 * **Individual links of the recordings from the January Meetup are available: [A Story On Scaling Threat Modeling Across 500+ DevOps Teams by Abhishek K. Goel](https://youtu.be/W47rR0oFNNs) and [Gamification Of Threat Modelling by Grant Ongers](https://youtu.be/_nNI9Uq_lVM).**
-* **On the 19th of May OWASP Netherlands will have an online Meetup. The Meetup will be streamed on YouTube. Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/285824269/) for more information.**
+* **On the 19th of May OWASP Netherlands will have an online Meetup. The Meetup will be [streamed on YouTube](https://youtu.be/mlC-1XzuQpI). Check the "Upcoming Events" tab or the [Meetup page](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/285824269/) for more information.**
 
 ### Upcoming Meetings
 
