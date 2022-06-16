@@ -4,6 +4,8 @@
 
 [![Netsparker](assets/images/sponsors/200x60_netsparker_logo.png)](https://www.netsparker.com/)
 
+{% include sponsors-benelux-2021.md %} 
+
 ### OWASP BeNeLux-Day 2017 sponsor:
 
 [![Achmea](assets/images/sponsors/Achmea_L1_RGB_colour.jpg)](https://www.achmea.nl/)  
