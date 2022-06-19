@@ -13,5 +13,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% assign events = site.data.events.2022 | sort: 'date' %}
 
 {% for event in events %}
-{{event.date}}
+
+{{event.date | date: "%-d %B %Y"}}
+
 {% endfor %}
