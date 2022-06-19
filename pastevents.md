@@ -12,7 +12,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% for year_hash in site.data.events %}
 
-{% assign year = year_hash[1] %}
+{% assign year = year_hash[0] %}
 
 {{ year }}
 
