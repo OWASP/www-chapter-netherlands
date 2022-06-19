@@ -16,4 +16,4 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {{site.data.test.text}}
 
 ## News
-<a class="twitter-timeline" href="https://twitter.com/owasp_NL?ref_src=twsrc%5Etfw">Tweets by owasp_NL</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
