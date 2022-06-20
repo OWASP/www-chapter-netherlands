@@ -10,7 +10,9 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% include menu.md currentPage="pastevents" %} 
 
-{% for year_hash in (site.data.events | sort)  %}
+{% assign years in site.data.events | sort %}
+
+{% for year_hash in years  %}
 
 {% assign year = year_hash[0] %}
 
