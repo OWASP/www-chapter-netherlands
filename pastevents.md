@@ -28,6 +28,8 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% endif %}
 
+{{ yearLinks }}
+
 {% endfor %}
 
 {% for year_hash in years reversed %}
