@@ -16,7 +16,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign year = year_hash[0] %}
 
-[{{ year }}](#{{ year }})
+<a href="#{{ year }}">{{ year }}</a>&nbsp;|&nbsp;
 
 {% endfor %}
 
@@ -24,7 +24,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign year = year_hash[0] %}
 
-##{{ year }}
+## {{ year }}
 
 {% endfor %}
 
