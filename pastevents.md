@@ -16,7 +16,15 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign year = year_hash[0] %}
 
-{{ year }}
+[{{ year }}](#{{ year }})
+
+{% endfor %}
+
+{% for year_hash in years reversed %}
+
+{% assign year = year_hash[0] %}
+
+##{{ year }}
 
 {% endfor %}
 
