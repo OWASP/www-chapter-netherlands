@@ -12,11 +12,21 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign years = site.data.events | sort %}
 
+{% assign yearLinks = "" %}
+
 {% for year_hash in years reversed %}
 
 {% assign year = year_hash[0] %}
 
-<a href="#{{ year }}">{{ year }}</a>&nbsp;&#124;&nbsp;
+{% if yearLinks == "" %}
+
+{% assign yearLinks = year %}
+
+{% else %}
+
+{% assign yearLinks = yearLinks | append: ' &nbsp;&#124;&nbsp; ' | append: year %}
+
+{% endif %}
 
 {% endfor %}
 
