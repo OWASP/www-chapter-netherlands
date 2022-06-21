@@ -24,7 +24,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% else %}
 
-{% assign yearLinks = yearLinks | append: ' &nbsp;&#124;&nbsp; ' | append: year %}
+{% assign yearLinks = yearLinks | append: ' &nbsp;&#124;&nbsp; ' | append: '[' | append: year | append: '](#' | append: year | append: ')' %}
 
 {% endif %}
 
@@ -37,6 +37,14 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% assign year = year_hash[0] %}
 
 ## {{ year }}
+
+{% assign events = site.data.events[year] | sort: 'date' %}
+
+{% for event in events %}
+
+{{event.date | date: "%-d %B %Y"}}
+
+{% endfor %}
 
 {% endfor %}
 
