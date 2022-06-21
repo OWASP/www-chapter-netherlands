@@ -39,9 +39,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 ## {{ year }}
 
-{% assign events = unsortedEvents | sort: 'date' %}
-
-{% for event in events %}
+{% for event in unsortedEvents %}
 
 {{event.date | date: "%-d %B %Y"}}
 
