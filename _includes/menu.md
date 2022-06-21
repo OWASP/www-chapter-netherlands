@@ -5,6 +5,6 @@
 &nbsp;&nbsp;
 {% if include.currentPage == "pastevents" %} <strong> {% endif %}[Past Events](pastevents){% if include.currentPage == "pastevents" %} </strong> {% endif %}
 &nbsp;&nbsp;
-{% if include.currentPage == "supportingthechapter" %} <strong> {% endif %}[Supporting The Chapter](supportingthechapter){% if include.supportingthechapter == "supportingthechapter" %} </strong> {% endif %}
+{% if include.currentPage == "supportingthechapter" %} <strong> {% endif %}[Supporting The Chapter](supportingthechapter){% if include.currentPage == "supportingthechapter" %} </strong> {% endif %}
 &nbsp;&nbsp;
-{% if include.currentPage == "benelux" %} <strong> {% endif %}[BeNeLux Days](benelux){% if include.currentPage == "benelux" %} </benelux> {% endif %}
+{% if include.currentPage == "benelux" %} <strong> {% endif %}[BeNeLux Days](benelux){% if include.currentPage == "benelux" %} </strong> {% endif %}
