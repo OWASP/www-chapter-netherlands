@@ -20,7 +20,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% if yearLinks == "" %}
 
-{% assign yearLinks = year %}
+{% assign yearLinks = '[' | append: year | append: '](#' | append: year | append: ')' %}
 
 {% else %}
 
@@ -28,9 +28,9 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% endif %}
 
-{{ yearLinks }}
-
 {% endfor %}
+
+{{ yearLinks }}
 
 {% for year_hash in years reversed %}
 
