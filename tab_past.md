@@ -17,7 +17,9 @@ tags: netherlands
 * [2015](#2015)
 
 ## 2022
-[May 19 2022](#may-19-2022) | [April 21 2022](#april-21-2022) | [March 17 2022](#march-17-2022) | [February 17 2022](#february-17-2022) | [January 20 2022](#january-20-2022)
+[June 16 2022](#june-16-2022) | [[May 19 2022](#may-19-2022) | [April 21 2022](#april-21-2022) | [March 17 2022](#march-17-2022) | [February 17 2022](#february-17-2022) | [January 20 2022](#january-20-2022)
+
+{% include events/2022/20220616.md %}
 
 {% include events/2022/20220519.md %}
 
