@@ -47,7 +47,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% endfor %}
 
-{% assign events = site.data.events.2021 | sort: 'date' %}
+{% assign events = site.data.events.2022 | sort: 'date' %}
 
 {% for event in events %}
 
