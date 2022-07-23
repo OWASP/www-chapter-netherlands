@@ -7,4 +7,4 @@ order: 2
 tags: netherlands
 ---
 
-{% include events/2022/20220616.md %}
+Our next meeting will be in September.
