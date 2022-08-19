@@ -38,8 +38,6 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign events = year_hash[1] %}
 
-{{ events | inspect }}
-
 ## {{ year }}
 
 {% for event in events %}
