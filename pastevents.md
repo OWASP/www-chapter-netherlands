@@ -35,22 +35,17 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% for year_hash in years reversed %}
 
 {% assign year = year_hash[0] %}
+
 {% assign unsortedEvents = year_hash[1] %}
 
 ## {{ year }}
 
-{% for event in unsortedEvents %}
+{% assign sortedEvents = unsortedEvents | sort: 'date' %}
+
+{% for event in sortedEvents %}
 
 {{event.date | date: "%-d %B %Y"}}
 
 {% endfor %}
-
-{% endfor %}
-
-{% assign events = site.data.events.2022 | sort: 'date' %}
-
-{% for event in events %}
-
-{{event.date | date: "%-d %B %Y"}}
 
 {% endfor %}
