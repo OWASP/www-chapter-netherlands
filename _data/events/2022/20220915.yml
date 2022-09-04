@@ -1,0 +1,82 @@
+date          : 2022-09-15
+page          : upcomming
+information   : 
+livestreamUrl :
+location      : Radboud University, Huygens building, Room zaal HG00.307 
+address       : Heyendaalseweg 135, Nijmegen
+locationUrl   : https://www.ru.nl/fnwi/faculteit/profiel/huygensgebouw
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/287743579/
+items         :
+  - type      : intermission
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : intermission
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : update
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : The Red Cross of the Internet
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : >-
+                      Over the year 2021 the Dutch Institute for Vulnerability Disclosure (DIVD) 
+                      notified a total of 86,427 IP addresses that were found to be vulnerable. 
+                      Compared to 58,358 e-mails in 2020, that is a growth of more that 33%. 
+                      This year we already sent out 141,078 emails.<br />
+                      The DIVD scans the internet for vulnerabilities and reports these to the 
+                      people who can fix them. I will go into some of our recent cases, ranging 
+                      from KaseyaVSA, to Log4j in 2021 and some of the 2022 highlights. Next to 
+                      that you will get an introduction in how the DIVD has professionalise 
+                      vulnerability disclosure and why we are allowed to somewhat break laws on 
+                      computer crime and privacy.
+    speakers        :
+    - name            : Shairesh Algoe
+      bio             : >-
+                        Shairesh Algoe is passionate about information security and tech and 
+                        enjoys teaching and telling stories. He tries to keep information 
+                        security simple with more than 12 years of experience and has had several 
+                        security hats. From technical to leadership roles.<br />
+                        His day job is being a Chief Information Security Officer for TM-Pro an 
+                        FinTech company provides banking as a service platform to small, medium 
+                        and lager financial institutions.<br />
+                        Beside that he is a board member at the DIVD and responsible together with 
+                        the management team for the continuity of this hacker collective that 
+                        helps to clean up the internet for free within our code of conduct. <br />
+                        In his other spare time, he is also an entrepreneur who delivers security 
+                        products and services to multiple companies. He is also a speaker and 
+                        teaches students about information security and quantum technology.
+    presentationUrl :
+    youtubeUrl      :
+  - type            : intermission
+    title           :
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : Digitally securing The Netherlands - or convincing others to do it
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : >-
+                      NCSC-NL has a clear mission&#58; to make The Netherlands digitally secure. 
+                      To achieve this, we need to understand what’s going on and connect all the 
+                      relevant parties to exchange knowledge and provide a perspective for action, 
+                      hopefully to prevent digital disruptions. But the NCSC does not own or 
+                      control any part of the internet. We do not have actual buttons to push or 
+                      knobs to turn. We need to make others do this for the greater good. Let’s 
+                      take a dive into the efforts of the NCSC to help assess digital risks, help 
+                      resolve vulnerabilities in systems and help respond to incidents.
+    speakers        :
+    - name            : Koen Sandbrink
+      bio             : >-
+                        Koen Sandbrink is a cyber security advisor for the National Cyber Security 
+                        Centre of The Netherlands (NCSC-NL). Originally educated to make IT, he 
+                        started his career as a security tester to break IT. In the following decade, 
+                        he has seen too many things gone wrong and has developed a few opinions on 
+                        how not to do those things anymore. Koen likes trains, architecture and 
+                        classical music and is also convinced that Ludwig van Beethoven was a hacker.
+    presentationUrl :
+    youtubeUrl      :
