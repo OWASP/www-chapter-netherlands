@@ -7,7 +7,7 @@ Address: {{ event.address }}
 {% for item in event.items %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
 {% endfor %}  
 
-{% assign talks event.items | where: "type", "talk" %}  
+{% assign talks = event.items | where: "type", "talk" %}  
 
 {% for item in talks %} 
 #### {{ item.title }}
