@@ -7,15 +7,15 @@ address       : Heyendaalseweg 135, Nijmegen
 locationUrl   : https://www.ru.nl/fnwi/faculteit/profiel/huygensgebouw
 meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/287743579/
 items         :
-  - type      : intermission
+  - type      : 
     title     : Reception of attendees
     start     : "18:00"
     end       : "18:15"
-  - type      : intermission
+  - type      : 
     title     : Pizza
     start     : "18:15"
     end       : "19:00"
-  - type      : update
+  - type      : 
     title     : Welcome and OWASP updates
     start     : "19:00"
     end       : "19:15"
@@ -52,8 +52,8 @@ items         :
                         teaches students about information security and quantum technology.
     presentationUrl :
     youtubeUrl      :
-  - type            : intermission
-    title           :
+  - type            : 
+    title           : Break with drinks
     start           : "20.00"
     end             : "20:15"
   - type            : talk
