@@ -46,7 +46,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% if eventLinks == "" %}
 
-{% assign eventDateString = event.date | Date: "%B %-d %Y" %}
+{% assign eventDateString = event.date | date: "%B %-d %Y" %}
 
 {% assign eventDateUrl = eventDateString | replace: " ", "-" %}
 
