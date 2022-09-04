@@ -42,6 +42,11 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% for currentEvent in events %}
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventdate %}{{currentEvent[1].date | date: '%s'}}{% endcapture %}
+
+{% if eventdate < nowunix %}
+
 {% assign event = currentEvent[1] %}
 
 {% assign eventDateString = event.date | date: "%B %-d %Y" %}
@@ -58,14 +63,23 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% endif %}
 
+{% endif %}
+
 {% endfor %}
 
 {{ eventLinks }}
 
 {% for currentEvent in events %}
 
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventdate %}{{currentEvent[1].date | date: '%s'}}{% endcapture %}
+
+{% if eventdate < nowunix %} 
+
 {% assign event = currentEvent[1] %}  
 {% include event.md %}
+
+{% endif %}
 
 {% endfor %}
 
