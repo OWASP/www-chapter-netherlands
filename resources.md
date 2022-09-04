@@ -39,7 +39,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
     {% assign speakerSeperator = "by " %}
     {% for speaker in item.speakers %}
     {% assign speakerString = speakerString | append: speakerSeperator | append: '<i>' | append: speaker.name | append: '</i>' %}
-    {% assign speakerSeperator = "and " %}
+    {% assign speakerSeperator = " and " %}
     {% endfor %}
     <tr>
       <td style="text-align: left">{{ dateString }}</td>
