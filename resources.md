@@ -25,7 +25,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% assign events = year_hash[1] %}
 {% for currentEvent in events %}
 {% assign talks = currentEvent[1].items | where: "type", "talk" %}
-{% assign dateString = currentEvent[1].date | date "%B %-d %Y" %}
+{% assign dateString = currentEvent[1].date | date: "%B %-d %Y" %}
 {% for item in talks %}
     <tr>
       <td style="text-align: left">{{ dateString }}</td>
