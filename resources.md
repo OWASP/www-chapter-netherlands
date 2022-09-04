@@ -27,18 +27,23 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% assign talks = currentEvent[1].items | where: "type", "talk" %}
 {% assign dateString = currentEvent[1].date | date: "%B %-d %Y" %}
 {% for item in talks %}
+    {% assign itemHasResources = false %}
+    {% if item.presentationUrl and item.presentationUrl != '' %}
+    {% assign itemHasResources = true %}
+    {% endif %}
+    {% if item.youtubeUrl and item.youtubeUrl != '' %}
+    {% assign itemHasResources = true %}
+    {% endif %}
+    {% if itemHasResources %}
     <tr>
       <td style="text-align: left">{{ dateString }}</td>
       <td style="text-align: center">{{ item.title }}</td>
       <td style="text-align: right">&nbsp;</td>
     </tr>
     {% assign dateString = '&nbsp;' %}
+    {% endif %}
 {% endfor %}
 {% endfor %}
 {% endfor %}
   </tbody>
 </table>
-
-
-| June 16 2022       | Staying In Control Of Your Cloud Application Landscape by Priyam Awasthy and Spandan Chandra | [Recording](https://youtu.be/r1-ID0z3rBY) |
-|                    | OWASP Cloud-Native Application Security Top 10 by Filip Chyla                                | [Recording](https://youtu.be/4qr7eqBqS58) |
