@@ -11,8 +11,8 @@ Address: {{ event.address }}
 
 {% for item in talks %} 
 #### {{ item.title }}
-{% unless item.presentationUrl == "" or item.presentationUrl == nil %}[Download the presentation]({{ item.presentationUrl }})  {% endunless %}
-{% unless item.youtubeUrl == "" or item.youtubeUrl == nill %}[Watch the recording]({{ item.youtubeUrl }})  {% endunless %}
+{% if item.presentationUrl == blank %}[Download the presentation]({{ item.presentationUrl }})  {% endif %}
+{% if item.youtubeUrl == blank %}[Watch the recording]({{ item.youtubeUrl }})  {% endif %}
 ##### Abstract:
 {{ item.abstract }}
 ##### Bio:
