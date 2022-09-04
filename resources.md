@@ -8,7 +8,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 ---
 
-{% include menu.md currentPage="home" %}
+{% include menu.md currentPage="resources" %}
 
 | Date               | Name / Title                                                              | Presentation Link |
 | :----------------- | :-----------------------------------------------------------------------: | -----------------: |
