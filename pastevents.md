@@ -46,13 +46,15 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% if eventLinks == "" %}
 
-{% assign eventDateString = event.Date | Date: "%B %-d %Y" %}
+{% assign eventDateString = event.date | Date: "%B %-d %Y" %}
 
-{% assign eventLinks = '[' | append: eventDateString | append: '](#' | append: eventDateString | append: ')' %}
+{% assign eventDateUrl = eventDateString | replace: " ", "-" %}
+
+{% assign eventLinks = '[' | append: eventDateString | append: '](#' | append: eventDateUrl | append: ')' %}
 
 {% else %}
 
-{% assign eventLinks = eventLinks | append: ' &nbsp;&#124;&nbsp; ' | append: '[' | append: eventDateString | append: '](#' | append: eventDateString | append: ')' %}
+{% assign eventLinks = eventLinks | append: ' &nbsp;&#124;&nbsp; ' | append: '[' | append: eventDateString | append: '](#' | append: eventDateUrl | append: ')' %}
 
 {% endif %}
 
