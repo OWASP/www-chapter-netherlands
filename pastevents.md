@@ -38,6 +38,28 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign events = year_hash[1] %}
 
+{% assign eventLinks = "" %}
+
+{% for currentEvent in events %}
+
+{% assign event = currentEvent[1] %}
+
+{% if eventLinks == "" %}
+
+{% assign eventDateString = event.Date | Date: "%B %-d %Y" %}
+
+{% assign eventLinks = '[' | append: eventDateString | append: '](#' | append: eventDateString | append: ')' %}
+
+{% else %}
+
+{% assign eventLinks = eventLinks | append: ' &nbsp;&#124;&nbsp; ' | append: '[' | append: eventDateString | append: '](#' | append: eventDateString | append: ')' %}
+
+{% endif %}
+
+{% endfor %}
+
+{{ eventLinks }}
+
 {% for currentEvent in events %}
 
 {% assign event = currentEvent[1] %}  
