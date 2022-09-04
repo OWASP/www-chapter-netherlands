@@ -7,4 +7,4 @@
 &nbsp;&nbsp;
 {% if include.currentPage == "pastevents" %} <strong> {% endif %}[Past Events](pastevents){% if include.currentPage == "pastevents" %} </strong> {% endif %}
 &nbsp;&nbsp;
-{% if include.currentPage == "resources" %} <strong> {% endif %}[Resources](supportingthechapter){% if include.currentPage == "resources" %} </strong> {% endif %}
+{% if include.currentPage == "resources" %} <strong> {% endif %}[Resources](resources){% if include.currentPage == "resources" %} </strong> {% endif %}
