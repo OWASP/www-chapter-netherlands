@@ -1,7 +1,7 @@
 
 {% if include.currentPage == "home" %} <strong> {% endif %}[Main](new){% if include.currentPage == "home" %} </strong> {% endif %}
 &nbsp;&nbsp;
-{% if include.currentPage == "supporters" %} <strong> {% endif %}Supporters{% if include.currentPage == "supporters" %} </strong> {% endif %}
+{% if include.currentPage == "supporters" %} <strong> {% endif %}[Supporters](supporters){% if include.currentPage == "supporters" %} </strong> {% endif %}
 &nbsp;&nbsp;
 {% if include.currentPage == "upcomingevents" %} <strong> {% endif %}[Upcoming Events](upcomingevents){% if include.currentPage == "upcomingevents" %} </strong> {% endif %}
 &nbsp;&nbsp;
