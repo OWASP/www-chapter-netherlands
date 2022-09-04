@@ -44,11 +44,11 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign event = currentEvent[1] %}
 
-{% if eventLinks == "" %}
-
 {% assign eventDateString = event.date | date: "%B %-d %Y" %}
 
-{% assign eventDateUrl = eventDateString | replace: " ", "-" %}
+{% assign eventDateUrl = eventDateString | replace: " ", "-" | downcase %}
+
+{% if eventLinks == "" %}
 
 {% assign eventLinks = '[' | append: eventDateString | append: '](#' | append: eventDateUrl | append: ')' %}
 
