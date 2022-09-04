@@ -2,9 +2,11 @@
 {{ event.information }}  
 
 Location: {{ event.location }}  
-Address: {{ event.Address }}  
+Address: {{ event.address }}  
 
 {% for item in items %}
+
+{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
 
 {% endfor %}
 
