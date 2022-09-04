@@ -39,9 +39,9 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
       <td style="text-align: left">{{ dateString }}</td>
       <td style="text-align: center">{{ item.title }}</td>
       <td style="text-align: right">
-        {% if item.presentationUrl and item.presentationUrl != '' %}[Presentation]({{ item.presentationUrl }}){% endif %}
+        {% if item.presentationUrl and item.presentationUrl != '' %}<a href="{{ item.presentationUrl }}">Presentation</a>{% endif %}
         {% if item.presentationUrl and item.presentationUrl != ''and  item.youtubeUrl and item.youtubeUrl != '' %}<br />{% endif %}
-        {% if item.youtubeUrl and item.youtubeUrl != '' %}[Recording]({{ item.youtubeUrl }}){% endif %}
+        {% if item.youtubeUrl and item.youtubeUrl != '' %}<a href="{{ item.youtubeUrl }}">Recording</a>{% endif %}
       </td>
     </tr>
     {% assign dateString = '&nbsp;' %}
