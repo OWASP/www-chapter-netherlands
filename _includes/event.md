@@ -4,18 +4,11 @@
 Location: {{ event.location }}  
 Address: {{ event.address }}  
 
-{% for item in items %}
+{% for item in event.items %}
 
 {{ item.start }} - {{ item.end }} - **{{ item.title }}**  
 
 {% endfor %}
-
-18:00 - 18:15 - **Reception of attendees**  
-18:15 - 19:00 - **Pizza**  
-19:00 - 19:15 - **Welcome and OWASP updates**  
-19:15 - 20:00 - **Staying in control of your cloud application landscape by Priyam Awasthy and Spandan Chandra**  
-20:00 - 20:15 - **Break with drinks**  
-20:15 - 21:00 - **OWASP Cloud-Native Application Security Top 10**
 
 #### Staying in control of your cloud application landscape
 [Physics of Cloud Application Security.pdf](https://drive.google.com/file/d/12bN1RN_8HX_1VoCKqtkXLL014i-Nt2R1/view?usp=sharing)
