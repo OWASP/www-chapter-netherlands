@@ -21,7 +21,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture eventdate %}{{currentEvent[1].date | date: '%s'}}{% endcapture %}
 
-{% if eventdate <= nowunix %} 
+{% if eventdate >= nowunix %} 
 
 {% assign event = currentEvent[1] %}  
 {% include event.md %}
