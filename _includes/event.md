@@ -9,7 +9,8 @@ Address: {{ event.address }}
 
 {% for item in event.items | where_exp: "item", "item.type == 'talk'" %}  
 #### {{ item.title }}
-
+{% if item.presentationUrl %}[Download the presentation](item.presentationUrl)  {% endif %}
+{% if item.youtubeUrl %}[Watch the recording](item.youtubeUrl)  {% endif %}
 ##### Abstract:
 {{ item.abstract }}
 ##### Bio:
