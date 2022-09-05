@@ -36,7 +36,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 ## {{ year }}
 
-{% assign events = year_hash[1] %}
+{% assign events = year_hash[1] | sort %}
 
 {% assign eventLinks = "" %}
 
