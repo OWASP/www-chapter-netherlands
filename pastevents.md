@@ -40,7 +40,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign eventLinks = "" %}
 
-{% for currentEvent in events %}
+{% for currentEvent in events reversed %}
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture eventdate %}{{currentEvent[1].date | date: '%s'}}{% endcapture %}
@@ -69,7 +69,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {{ eventLinks }}
 
-{% for currentEvent in events %}
+{% for currentEvent in events reversed%}
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture eventdate %}{{currentEvent[1].date | date: '%s'}}{% endcapture %}
