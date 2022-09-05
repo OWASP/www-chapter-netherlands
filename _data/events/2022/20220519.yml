@@ -29,9 +29,11 @@ items         :
   - type            : talk
     title           : Infrastructure as Code (IaC) - security challenges and how KICS solves them
     abstract        : >-
-                      - What is IaC  
-                      - Security challenges around IaC  
-                      - KICS OSS tool powered by Checkmarx and how it solves the challenges  
+                      <ul>  
+                      <li>What is IaC</li>  
+                      <li>Security challenges around IaC</li>  
+                      <li>KICS OSS tool powered by Checkmarx and how it solves the challenges</li>  
+                      </ul>
     speakers        :
     - name            : Lior Kaplan
       bio             : >-
