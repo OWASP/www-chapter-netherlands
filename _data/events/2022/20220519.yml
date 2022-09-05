@@ -1,0 +1,69 @@
+date          : 2022-05-19
+information   : This is an online meeting and will be streamed on [YouTube](https://youtu.be/mlC-1XzuQpI). The meeting will start at 19:00.
+livestreamUrl :
+location      : 
+address       : 
+locationUrl   : 
+meetupUrl     : 
+items         :
+  - type      : talk
+    title           : Comparing Static Analysis Security Testing (SAST) tools en dependency scanners
+    abstract        : >-
+                      There are many SAST tools and dependency scanners in the market. In this talk, 
+                      the comparison results will be discussed of some SAST tools and dependency scanners. 
+                      The comparison includes human experiences like usability and developer friendliness, 
+                      but also metrics like true and false positives and overlapping reports between the 
+                      tools. Tools that were compared are&#58; SonarQube, Npm audit, FindSecurityBugs, Snyk, 
+                      Semgrep, ShiftLeft Scan, OWASP Dependency Check, and OSS Index. The comparison was 
+                      performed by scanning a ready-for-market Java-React web application.
+    speakers        :
+    - name            : Wibren Wiersma
+      bio             : >-
+                        Wibren Wiersma is studying Cyber Security at the Radboud University in Nijmegen. 
+                        He performed the SAST comparison as a research internship by Carthago-ICT. Before 
+                        and during his study, Wibren worked for four years as a full stack developer for 
+                        different ICT companies. Currently, he is working on his master thesis about a 
+                        graph-based approach to detect outliers in academic publishing.
+    presentationUrl :
+    youtubeUrl      :
+  - type            : talk
+    title           : Infrastructure as Code (IaC) - security challenges and how KICS solves them
+    abstract        : >-
+                      - What is IaC
+                      - Security challenges around IaC
+                      - KICS OSS tool powered by Checkmarx and how it solves the challenges
+    speakers        :
+    - name            : Lior Kaplan
+      bio             : >-
+                        Lior Kaplan is Checkmarx’s open source officer, leading KICS open source project to Keep IaC Secure.
+    presentationUrl :
+    youtubeUrl      :
+  - type            : talk
+    title           : Secret Scanning Solutions
+    abstract        : >-
+                      Nowadays collaboration is key in software development. One way it is achieved is through software code 
+                      repositories, but the open nature and convenience they provide are met with the downside of human error. 
+                      The problem occurs when these public code repositories handle authentication secrets such as API keys 
+                      or cryptographic secrets. These secrets should be kept confidential, but it often happens that practices 
+                      like adding the secrets to the code repository lead to accidental leakage. To prevent this, secret 
+                      scanning tools have arisen on the market. Rabobank is trying to prevent secret leakage within the 
+                      company in which collaboration via code repositories is key. The company wishes to determine what 
+                      would be the best performing secret scanning tools available on the market and compare them with the tool 
+                      they are currently using, CredScan. This paper starts by presenting what secret scanning is, the most 
+                      common types of secrets which exist, the most common detection techniques implemented by secret scanning 
+                      tools, and an overview of the most popular tools available on the market. Further, it presents the steps 
+                      taken during the internship&#58; conducting interviews to compose a requirements list for the tool; 
+                      shortlisting the tools based on the requirements; testing the shortlisted tools in a testing environment, 
+                      and comparing the results. The top three best alternatives have proved to be SpectralOps, Whispers and 
+                      TruffleHog. Only SpectralOps is objectively better than CredScan whereas Whispers and TruffleHog output 
+                      false positives.
+    speakers        :
+    - name            : Raluca Viziteu
+      bio             : >-
+                        Raluca Viziteu is studying Information Security Technology at Eindhoven University of Technology for 
+                        her master degree. She performed a comparison of secret scanning tools as a research internship for Rabobank. 
+                        Raluca has previously studied Computer Science and Engineering at Eindhoven University of Technology. 
+                        Currently, she is working on her master thesis on building a practical threat modeling methodology for 
+                        supporting ICS device manufacturers and system integrators for Secura.
+    presentationUrl :
+    youtubeUrl      :
