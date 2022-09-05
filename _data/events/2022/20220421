@@ -1,0 +1,135 @@
+date          : 2022-04-21
+information   : This is an online meeting and will be streamed on [YouTube](https://youtu.be/Nq0657t8odk). The meeting will start at 19:00.
+livestreamUrl :
+location      : 
+address       : 
+locationUrl   : 
+meetupUrl     : 
+items         :
+  - type      : talk
+    title           : Crawl Dutch government websites to collect statistics of SRI usage
+    abstract        : >-
+                      In this work we crawled all major Dutch govern- ment websites to 
+                      measure the adoption rate of Subresource Integrity Protection (SRI). 
+                      We crawled and evaluated close to 150,000 different pages on 477 
+                      different domains using a crawler that we developed. This resulted 
+                      in approximately 1,000,000 different cross origin script and link 
+                      tags being evaluated. We found the adoption rate of SRI to be very 
+                      low with 8.4% of the tags having implemented SRI. For sensitive 
+                      pages, such as login and registration pages, this number was 
+                      slightly lower at 8.3%. Our findings indicate that most of these 
+                      SRI enabled references are due to Content Delivery Networks (CDN’s) 
+                      and utility providers providing HTML resource links already with 
+                      proper integrity and crossorigin attributes. This is due to CDN’s 
+                      and utility providers being the most popular SRI enabled domains to 
+                      reference to in combination with almost no Dutch government websites 
+                      having complete SRI cover- age in their cross origin resource 
+                      references.
+    speakers        :
+    - name            : Tom Stock
+      bio             : >-
+                        My name is Tom Stock, a cyber security master student at the Radboud 
+                        University with a passion for computers, pretty code and solving complex 
+                        problems with simple software.
+    youtubeUrl      :
+  - type            : talk
+    title           : Web Security Map ([basisbeveiliging.nl](basisbeveiliging.nl))
+    abstract        : >-
+                      Absolute transparency moves people forward. What happens when plotting 
+                      the state of security on a map? Organizations start to adapt and improve. 
+                      This is an overview of the Web Security Map application, which can help 
+                      you providing insight into a huge amounts of security info about companies 
+                      up to entire countries. It’s an open source product which can help you 
+                      change your part of the world. In this talk you’ll see the impact, how it 
+                      works, what it does, where to get it and where to go from there.
+    speakers        :
+    - name            : Elger Jonker
+      bio             : >-
+                        Elger Jonker is an ethical hacker who wants to make the world a better 
+                        place. Elger is currently working on the next Dutch hacker camp: May 
+                        Contain Hackers 2022 and has co-founded two hackerspaces Hack42 in 
+                        Arnhem and Awesome Space in Utrecht. Professionally Elger specializes 
+                        in the combination of software security, security testing and 
+                        application development. Elger is currently the lead developer for 
+                        internet.nl and has worked on other similar projects for the internet 
+                        society. Of course there is more but this bio should only be so long… 
+                        Oh, and Elger is doing software things for over 25 years now… which 
+                        makes them old, but not yet always grumpy.
+    presentationUrl :
+    youtubeUrl      :
+  - type            : talk
+    title           : Security Transformation Program
+    abstract        : >-
+                      We are living in a fast changing and very demanding world. New and evolving 
+                      technologies bring along new cybersecurity threats increasing the pressure on 
+                      SAP to evolve the security level of its software. With the migration to the 
+                      cloud we have the responsibility to securely operate our software adding a 
+                      layer of complexity into the security landscape. And if that was not enough, 
+                      more and more countries are releasing strict data privacy regulations. There 
+                      is no “one size fits all” solution any longer so that all our teams are faced 
+                      with technical and regulatory requirements. To overcome these challenges new 
+                      requirements, standards, and frameworks for developers and operations experts 
+                      are extended or created regularly – but more does not always mean better. 
+                      These initiatives quickly become exercises to fill in yet another excel file. 
+                      Therefore, the CX Trust Office has initiated a CX Security Transformation 
+                      Program to make security easy to consume for developers and operations experts 
+                      by simplifying, automating, and providing guidance.  
+                      ### Story Line:
+                      NIST, Internal policies, external frameworks, SOC, ISO certifications come with 
+                      a big list with repetitive requirements and very often the requirements are not 
+                      build into the product, but driven by external audits. Changing architectures, 
+                      products after they have been created and put in production. We have created a 
+                      strategy with tool to translate the requirements to executable easy to understand 
+                      instructions that removes complexity and removes duplications. We have setup our 
+                      organization in cross functional and functional teams that support to execute the 
+                      strategy. A tool to glue these things together and provide guidance, current 
+                      status for all the frameworks and regulations.
+    speakers        :
+    - name            : Dimitar Yanev
+      bio             : >-
+                        EA natural leader that foster collaboration with empathy and inspires team work 
+                        by empowering people ability to unveil the best of themselves. Bringing 
+                        experience of driving complex strategic cross-company projects to success. 
+                        Recognized for demonstrating out of the box thinking and putting customers front 
+                        and centre. Started his career in SAP Labs Sofia as a build engineer responsible 
+                        for creating a home grown complex java build environment. Joined and lead a task 
+                        force to roll out security static analysis in SAP. During the time gained in depth 
+                        understanding on how leading SAST Tools works and how to manage cross company scaled 
+                        projects. Lead the first the first Security Self-Service & Automation work stream for 
+                        SAP. Today Dimitar is Head of SAP CX Product Security Transformation and DevOps 
+                        defining, executing and developing tool support for security transformation program 
+                        for SAP CX.
+    - name            : Andreas Hauke
+      bio             : >-
+                        Andreas Hauke was born in Würzburg, North Bavaria - Germany. He founded his first IT 
+                        company during his school time with the age of 18 years, to train employees how to use 
+                        standard software and doing web development for small companies. He started studying 
+                        computer science and economics and paused due to founding his second company in the 
+                        e-commerce space to sell furniture online. In this time he was responsible to develop 
+                        the e-commerce platform based on open-source, operate it in a co-location and also securing 
+                        it against attacks. After the journey of an entrepreneur and closing the companies, he 
+                        rejoined studies and finished his bachelor’s degree with focus on information security. 
+                        During the study time he worked full-time as a consultant in different security projects 
+                        to execute penetration tests or overall secure the environments, also in critical 
+                        infrastructure of the government. After studies and being a freelancer, he joined Deutsche 
+                        Telekom Cloud Services as a Cloud Architect and was responsible to establish security in 
+                        the new developed Open-Stack platform and did due-diligences for security of the partner 
+                        solutions hosted on the platform. Besides that, he also trained the German army for networking 
+                        and security. After Telekom he joined SAP as a Security Architect to secure the first 
+                        productive SAP micro service platform developed by the Hybris team and took over the 
+                        responsibility to help securing other solutions in the portfolio. Being part of SAP he helped 
+                        acquisitions to integrate to SAP, e.g. Callidus, Gigya and Coresystems. He also helped to pilot 
+                        the first risk-based Secure SDL in SAP and initiated the first Security Self-Service & 
+                        Automation work stream for SAP.He also is a certified Threat Model Expert & Trainer, ISO27001 
+                        lead auditor, data protection officer and did several courses on cryptography, security 
+                        management and forensics. At the moment he is leading the SAP CX Trust Office as CISO for SAP 
+                        Customer Experience (CX) and drives the security transformation for this portfolio.  
+                        Andreas Hauke joined SAP as a Security Architect to secure the first productive SAP micro 
+                        service platform developed by the Hybris team and took over the responsibility to help securing 
+                        other solutions in the portfolio. Being part of SAP he helped acquisitions to integrate to SAP, 
+                        e.g. Callidus, Gigya and Coresystems. He also helped to pilot the first risk-based Secure SDL in 
+                        SAP and initiated the first Security Self-Service & Automation work stream for SAP. Currently 
+                        he is leading the SAP CX Trust Office as CISO for SAP Customer Experience (CX) and drives the 
+                        security transformation for this portfolio.
+    presentationUrl :
+    youtubeUrl      :
