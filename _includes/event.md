@@ -4,8 +4,8 @@
 Location: {{ event.location }}  
 Address: {{ event.address }}  
 
-{% for item in event.items %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
-{% endfor %}  
+{% for item in event.items %}{% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
+{% endif %}{% endfor %}  
 
 {% assign talks = event.items | where: "type", "talk" %}  
 
