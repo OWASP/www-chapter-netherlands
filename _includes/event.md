@@ -1,10 +1,10 @@
 ### {{ event.date | date: "%B %-d %Y"}}
 {{ event.information }}  
 
-{% if item.location and item.location != '' %}Location: {{ event.location }}  {% endif %}
-{% if item.address and item.address != '' %}Address: {{ event.address }}  {% endif %}
-{% if item.locationUrl and item.locationUrl != '' %}Link: {{ event.locationUrl }}  {% endif %}
-{% if item.meetupUrl and item.meetupUrl != '' %}  
+{% if event.location and event.location != '' %}Location: {{ event.location }}  {% endif %}
+{% if event.address and event.address != '' %}Address: {{ event.address }}  {% endif %}
+{% if event.locationUrl and event.locationUrl != '' %}Link: {{ event.locationUrl }}  {% endif %}
+{% if event.meetupUrl and event.meetupUrl != '' %}  
 Please register via: {{ event.meetupUrl }}  {% endif %}
 
 {% for item in event.items %}{% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
