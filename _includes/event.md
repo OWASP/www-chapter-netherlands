@@ -1,8 +1,11 @@
 ### {{ event.date | date: "%B %-d %Y"}}
 {{ event.information }}  
 
-Location: {{ event.location }}  
-Address: {{ event.address }}  
+{% if item.location and item.location != '' %}Location: {{ event.location }}  {% endif %}
+{% if item.address and item.address != '' %}Address: {{ event.address }}  {% endif %}
+{% if item.locationUrl and item.locationUrl != '' %}Link: {{ event.locationUrl }}  {% endif %}
+{% if item.meetupUrl and item.meetupUrl != '' %}  
+Please register via: {{ event.meetupUrl }}  {% endif %}
 
 {% for item in event.items %}{% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
 {% endif %}{% endfor %}  
