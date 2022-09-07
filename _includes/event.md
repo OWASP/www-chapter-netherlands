@@ -3,9 +3,9 @@
 
 {% if event.location and event.location != '' %}Location: {{ event.location }}  {% endif %}
 {% if event.address and event.address != '' %}Address: {{ event.address }}  {% endif %}
-{% if event.locationUrl and event.locationUrl != '' %}Link: {{ [event.locationUrl](event.locationUrl) }}  {% endif %}
+{% if event.locationUrl and event.locationUrl != '' %}Link: [{{ event.locationUrl }}]({{ event.locationUrl }})  {% endif %}
 {% if event.meetupUrl and event.meetupUrl != '' %}  
-Please register via: {{ [event.meetupUrl](event.meetupUrl) }}  {% endif %}
+Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 
 {% for item in event.items %}{% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
 {% endif %}{% endfor %}  
