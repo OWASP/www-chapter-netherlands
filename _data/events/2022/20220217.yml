@@ -51,3 +51,31 @@ items         :
                         Black Hat CISO Forum. He holds three patents in the area of software security.
     presentationUrl :
     youtubeUrl      : https://youtu.be/6f1yjL_yRdA
+  - type            : talk
+    title           : How log4j ruined our Christmas
+    abstract        : >-
+                      Early December a vulnerability was found in Log4j, an open-source logging library 
+                      commonly used by apps and services across the internet. If left unfixed, attackers 
+                      can break into systems, steal passwords and logins, extract data, and infect 
+                      networks with malicious software.<br />
+                      This talk will outline why this vulnerability ruined Christmas and the potential 
+                      impact log4j can or could have to your organisation.
+    speakers        :
+    - name            : Owen
+      bio             : >-
+                        Owen has over 11 years of experience in Cyber Security with an emphasis in 
+                        Penetration Testing and Red Teaming. He currently holds the position of Head of 
+                        Cyber Resilience in Bank of Ireland where he is responsible for leading out the 
+                        Security Testing, Incident Response and Threat Intelligence functions. Owen has 
+                        deep experience across a range of Cyber Security domains having carried out a 
+                        range of engagements servicing a diverse portfolio of clients across multiple 
+                        industries. He has developed strong leadership and people management skills, 
+                        having led a variety of diverse teams performing a range of services.<br />
+                        Prior to joining Bank of Ireland, Owen led the Penetration Testing and Red 
+                        Teaming functions for Deloitte Ireland. Furthermore, he acted as the 
+                        Vulnerability Management Lead for the EMEA region.<br />
+                        Owen is an advocate of secure development and sat on the Global Board of 
+                        Directors of OWASP for the last 4 years. Owen held the role of Secretary, 
+                        Vice-Chair and Chair of the Global Foundation.
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/us9ufAeWCGI
