@@ -22,8 +22,8 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
   </thead>
   <tbody>
 {% for year_hash in years reversed %}
-{% assign events = year_hash[1] %}
-{% for currentEvent in events %}
+{% assign events = year_hash[1] | sort %}
+{% for currentEvent in events reversed %}
 {% assign talks = currentEvent[1].items | where: "type", "talk" %}
 {% assign dateString = currentEvent[1].date | date: "%B %-d %Y" %}
 {% for item in talks %}
