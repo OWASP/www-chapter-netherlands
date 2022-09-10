@@ -1,4 +1,8 @@
+{% if event.dateString and event.dateString != '' and event.tileString and event.tileString != '' %}
 ### {{ event.date | date: "%B %-d %Y"}}
+{% else %}
+<h3 id="{{ event.dateString | replace: " ", "-" | downcase }}">{{ event.titleString }}</h3>
+{% endif %}
 {{ event.information }}  
 
 {% if event.location and event.location != '' %}Location: {{ event.location }}  {% endif %}
