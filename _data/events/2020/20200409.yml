@@ -2,23 +2,23 @@ date          : 2020-04-09
 information   : >-
                 The first talk will start at 20:00.<br />
                 <br />
-                Schedule&58;<bt>
+                Schedule:<br />
                 <ul>  
-                  <li><b>[SKF](https://owasp.org/www-project-security-knowledge-framework/) news</b> by Riccardo ten Cate and Glenn ten Cate <a href="https://youtu.be/Am_PhYNxStI">Video</a>)</li>  
+                  <li><b><a href="https://owasp.org/www-project-security-knowledge-framework/">SKF</a> news</b> by Riccardo ten Cate and Glenn ten Cate <a href="https://youtu.be/Am_PhYNxStI">Video</a>)</li>  
                   <li>Break</li>  
-                  <li><b>[OWASP Integration Standards project](https://owasp.org/www-project-integration-standards/) update</b by Rob van der Veer (<a href="https://youtu.be/MnUR08LOFO0">Video</a>)</li>  
+                  <li><b><a href="https://owasp.org/www-project-integration-standards/">OWASP Integration Standards project<a/> update</b by Rob van der Veer (<a href="https://youtu.be/MnUR08LOFO0">Video</a>)</li>  
                 </ul>  
                 <br />
-                ~~Watch the livestream at [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA).~~
+                <del>Watch the livestream at [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA).~~</del>
 items         :
-  - type            : resource
+  - type            : 
     title           : SKF news
     speakers        :
     - name            : Riccardo ten Cate
     - name            : Glenn ten Cate
     presentationUrl :
     youtubeUrl      : https://youtu.be/Am_PhYNxStI
-  - type            : resource
+  - type            : 
     title           : OWASP Integration Standards project update
     speakers        :
     - name            : Rob van der Veer
