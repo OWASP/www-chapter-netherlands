@@ -24,8 +24,8 @@ items         :
                         and during his study, Wibren worked for four years as a full stack developer for 
                         different ICT companies. Currently, he is working on his master thesis about a 
                         graph-based approach to detect outliers in academic publishing.
-    presentationUrl : https://youtu.be/ahzN12U32wU
-    youtubeUrl      :
+    presentationUrl : 
+    youtubeUrl      : https://youtu.be/ahzN12U32wU
   - type            : talk
     title           : Infrastructure as Code (IaC) - security challenges and how KICS solves them
     abstract        : >-
