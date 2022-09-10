@@ -1,0 +1,56 @@
+date          : 2022-03-17
+information   : This is an online meeting and will be streamed on [YouTube](https://youtu.be/C7jQdlLby54). The meeting will start at 19:00.  
+                  
+                Another great OWASP meet-up promised&#58; we have Steve Springett who will talk about OWASP 
+                Dependency-Check tool & OWASP Cyclone DX. He will share what is happing around these 
+                projects. Next to that we have Klaas Wijbrans sharing his industry insights on rules and 
+                regulation demanding SBOM, the challenges it brings and solution direction. We will also 
+                announce three (3) new OWASP projects that will be executed in 2022, so stay tuned!  
+                [Introducing&#58; The Security Champions Guidebook](https://youtu.be/18Zgq9qB1NA)  
+                [Introducing&#58; Guidelines on embedding SBOM in your organization](https://youtu.be/XQ5wMa1XYXQ)                  
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    title           : OWASP Dependency Track and OWASP CycloneDX
+    abstract        : >-
+                      Software Bill of Materials (SBOM) have gained wide-spread support from the software 
+                      industry, to critical infrastructure, to the White House. In this session, the OWASP 
+                      CycloneDX SBOM standard will be introduced along with strategies for effectively 
+                      creating SBOMs. Also introduced will be OWASP Dependency-Track, a platform that 
+                      consumes and continuously analyzes SBOMs for security, operational, and license risk. 
+                      Both of these flagship OWASP projects work together to allow organizations to make 
+                      better risk-based decisions.
+    speakers        :
+    - name            : Steve
+      bio             : >-
+                        Steve educates teams on the strategy and specifics of developing secure software. 
+                        He practices security at every stage of the development lifecycle by leading sessions 
+                        on threat modeling, secure architecture and design, static/dynamic/component analysis, 
+                        offensive research, and defensive programming techniques. Steve’s passionate about 
+                        helping organizations identify and reduce risk from the use of third-party and open 
+                        source components. He is an open source advocate and leads the OWASP Dependency-Track 
+                        project, OWASP Software Component Verification Standard (SCVS), and is the Chair of the 
+                        OWASP CycloneDX Core Working Group, a Software Bill of Materials (SBOM) Standard.
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/SQGo_EkraUc
+  - type            : talk
+    title           : Software Bill of Material – why do we need it, what is it and how can we overcome the current challenges
+    abstract        : >-
+                      The Executive Order on Cybersecurity of the Biden administration caused a lot of activity 
+                      on the ‘software bill of material’. This talk will go into the details why it is being asked, 
+                      what it consists of, and the practical challenges the industry needs to solve to reliably 
+                      and efficiently create and use it in an automated way.
+    speakers        :
+    - name            : Klaas Wijbrans
+      bio             : >-
+                        Klaas is fellow architect in the Chief Architect Office of Philips. He has thirty years of 
+                        experience in complex, software intensive systems and products like traffic control systems, 
+                        storm surge barrier control system, telecommunications equipment and medical systems. In 
+                        Philips he is driving the standardization of Philips products to a common architecture and 
+                        common technologies.
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/CHI_T2HT1uk
