@@ -24,7 +24,9 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% for year_hash in years reversed %}
 {% assign events = year_hash[1] | sort %}
 {% for currentEvent in events reversed %}
-{% assign talks = currentEvent[1].items | where_exp: "item", "item.type == 'talk' or item.type == 'resource'" %}
+{% assign talks = currentEvent[1].items | where: "type", "talk" %}
+{% assign resources = currentEvent[1].items | where: "type", "resource" %}
+{% assign talks = talks | concat: resources %}
 {% assign dateString = currentEvent[1].date | date: "%B %-d %Y" %}
 {% for item in talks %}
     {% assign itemHasResources = false %}
