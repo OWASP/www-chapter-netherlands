@@ -9,7 +9,7 @@ locationUrl   :
 meetupUrl     :
 items         :
   - type            : talk
-    title           : Our Secrets Management Journey: From Code to Vault
+    title           : Our Secrets Management Journey&58; From Code to Vault
     abstract        : >-
                       So you have an access key that you need to store somewhere. 
                       Maybe it is better not to put it in your code, nor in your 
