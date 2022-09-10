@@ -1,0 +1,53 @@
+date          : 2022-02-17
+information   : This is an online meeting and will be streamed on [YouTube](https://youtu.be/-XWrsG2rNQc). The meeting will start at 19:00.
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    title           : How log4j became an epic - a story told by a developer and a product owner
+    abstract        : >-
+                      This talk is will touch upon the log4j vulnerability, and how it has set 
+                      everything on fire, what impact it had on our team, and what we have 
+                      learned from the crisis.
+    speakers        :
+    - name            : Rick te Brake
+      bio             : >-
+                        Rick te Brake has 12 years of experience in java backend development. 
+                        He has worked in banking and healthcare industries. He likes to work 
+                        with reactive microservices and functional programming.
+    - name            : Anna Rudenko
+      bio             : >-
+                        Anna Rudenko is product owner in the same team, she has over 7 years 
+                        of experience as Project manager and Product owner in the areas of 
+                        software development, media production, charity and scientific research.<br />
+                        Previously, she was doing her Ph.D. in Cognitive Linguistics.
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/vtiuzuEgKbk
+  - type            : talk
+    title           : The Long-Term Impact of Log4j
+    abstract        : >-
+                      In its aftermath, Log4j vulnerabilities put the spotlight on vendor management 
+                      and supply chain security practices. Now that the dust has settled and the 
+                      worst of the fallout has passed, this talk presents perspectives on likely 
+                      mid- and long-term changes that the security industry will see as a result of 
+                      dealing with the Log4j issue as the latest in an escalating series of open 
+                      source and software supply chain incidents.
+    speakers        :
+    - name            : Dan Cornell
+      bio             : >-
+                        A globally recognized software security expert, Dan Cornell has over 20 years 
+                        of experience architecting, developing and securing software systems. As Vice 
+                        President of Product Strategy at Coalfire, Dan works with customers and 
+                        industry partners to help drive the direction of their product portfolio. 
+                        Prior to its acquisition by Coalfire, Dan was a founder of and the Chief 
+                        Technology Officer at Denim Group, where he helped Fortune 500 companies and 
+                        government organizations integrate security throughout the development process.<br />
+                        Cornell is an active member of the development community and a sought-after 
+                        speaker on topics of application and software security, speaking at international 
+                        conferences including RSA Security Conference, OWASP AppSec USA and EU, TEDx, and 
+                        Black Hat CISO Forum. He holds three patents in the area of software security.
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/6f1yjL_yRdA
