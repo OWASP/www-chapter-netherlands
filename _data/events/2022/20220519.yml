@@ -24,7 +24,7 @@ items         :
                         and during his study, Wibren worked for four years as a full stack developer for 
                         different ICT companies. Currently, he is working on his master thesis about a 
                         graph-based approach to detect outliers in academic publishing.
-    presentationUrl :
+    presentationUrl : https://youtu.be/ahzN12U32wU
     youtubeUrl      :
   - type            : talk
     title           : Infrastructure as Code (IaC) - security challenges and how KICS solves them
@@ -38,7 +38,7 @@ items         :
     - name            : Lior Kaplan
       bio             : >-
                         Lior Kaplan is Checkmarx’s open source officer, leading KICS open source project to Keep IaC Secure.
-    presentationUrl :
+    presentationUrl : 
     youtubeUrl      :
   - type            : talk
     title           : Secret Scanning Solutions
@@ -68,4 +68,4 @@ items         :
                         Currently, she is working on her master thesis on building a practical threat modeling methodology for 
                         supporting ICS device manufacturers and system integrators for Secura.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/G1LAPqFCpYE
