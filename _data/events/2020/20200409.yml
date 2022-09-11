@@ -1,10 +1,13 @@
 date          : 2020-04-09
 information   : >-
+                The first talk will start at 20:00.  
+                <b>Schedule:</b>  
                 <ul>  
                 <li>SKF news by Riccardo ten Cate and Glenn ten Cate (Video)</li>  
                 <li>Break</li>  
                 <li>OWASP Integration Standards project update by Rob van der Veer (Video)</li>  
                 </ul>
+                <del>Watch the livestream at https://youtu.be/EtGyhWYSjVA.</del>
 items         :
   - type            : resource
     title           : SKF news
