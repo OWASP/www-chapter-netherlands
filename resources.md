@@ -53,6 +53,34 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
     {% assign dateString = '&nbsp;' %}
     {% endif %}
 {% endfor %}
+{% assign resources = currentEvent[1].items | where: "type", "resource" %}
+{% for item in resources %}
+    {% assign itemHasResources = false %}
+    {% if item.presentationUrl and item.presentationUrl != '' %}
+    {% assign itemHasResources = true %}
+    {% endif %}
+    {% if item.youtubeUrl and item.youtubeUrl != '' %}
+    {% assign itemHasResources = true %}
+    {% endif %}
+    {% if itemHasResources %}
+    {% assign speakerString = "" %}
+    {% assign speakerSeperator = "by " %}
+    {% for speaker in item.speakers %}
+    {% assign speakerString = speakerString | append: speakerSeperator | append: '<i>' | append: speaker.name | append: '</i>' %}
+    {% assign speakerSeperator = " and " %}
+    {% endfor %}
+    <tr>
+      <td style="text-align: left">{{ dateString }}</td>
+      <td style="text-align: center">{{item.title }}<br />{{ speakerString }}</td>
+      <td style="text-align: right">
+        {% if item.presentationUrl and item.presentationUrl != '' %}<a href="{{ item.presentationUrl }}">Presentation</a>{% endif %}
+        {% if item.presentationUrl and item.presentationUrl != ''and  item.youtubeUrl and item.youtubeUrl != '' %}<br />{% endif %}
+        {% if item.youtubeUrl and item.youtubeUrl != '' %}<a href="{{ item.youtubeUrl }}">Recording</a>{% endif %}
+      </td>
+    </tr>
+    {% assign dateString = '&nbsp;' %}
+    {% endif %}
+{% endfor %}
 {% endfor %}
 {% endfor %}
   </tbody>
