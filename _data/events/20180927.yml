@@ -1,0 +1,24 @@
+date          : 2018-09-27
+information   :
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "19:15"
+    end             : "20:00"
+    title           : Serverless Security&#58; Functions-as-a-Service (FaaS)
+    speakers        :
+    - name            : Niels Tanis
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/c5ZHPc_yG4g
+  - type            : talk
+    start           : "20:15"
+    end             : "21:00"
+    title           : Building A Security Test Automation Framework
+    speakers        :
+    - name            : Riccardo Ten Cate
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/xWe816PXll4
