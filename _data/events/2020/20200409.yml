@@ -10,14 +10,14 @@ information   : >-
                 <br />
                 <del>Watch the livestream at [https://youtu.be/EtGyhWYSjVA](https://youtu.be/EtGyhWYSjVA).~~</del>
 items         :
-  - type            : 
+  - type            : resource
     title           : SKF news
     speakers        :
     - name            : Riccardo ten Cate
     - name            : Glenn ten Cate
     presentationUrl :
     youtubeUrl      : https://youtu.be/Am_PhYNxStI
-  - type            : 
+  - type            : resource
     title           : OWASP Integration Standards project update
     speakers        :
     - name            : Rob van der Veer
