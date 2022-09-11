@@ -24,8 +24,8 @@ Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 #### {{ item.title }}
 {% if item.presentationUrl and item.presentationUrl != '' %}[Download the presentation]({{ item.presentationUrl }})  {% endif %}
 {% if item.youtubeUrl and item.youtubeUrl != '' %}[Watch the recording]({{ item.youtubeUrl }})  {% endif %}
-##### Abstract:
-{{ item.abstract }}
+{% if item.abstract and item.abstract != '' %}##### Abstract:
+{{ item.abstract }}{% endif %}
 ##### Bio:
 {% for speaker in item.speakers %}  
 ###### {{ speaker.name }}: 
