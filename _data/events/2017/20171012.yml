@@ -1,0 +1,24 @@
+date          : 2017-10-12
+information   :
+livestreamUrl :
+location      : Radboud Universiteit
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "19:15"
+    end             : "20:00"
+    title           : Playing in the Sandbox&#58; Bypassing Adobe Flash Input Validation
+    speakers        :
+    - name            : Björn Ruytenberg
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/lW5Z05lixJI
+  - type            : talk
+    start           : "20:15"
+    end             : "21:00"
+    title           : How to rob a bank
+    speakers        :
+    - name            : Pieter Ceelen
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/HRaeZ9W_m4g
