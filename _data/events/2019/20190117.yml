@@ -41,13 +41,13 @@ items         :
                         an advanced mathematics degree to be leveraged, as well as to find 
                         novel ways to apply them within the security space
     presentationUrl : https://drive.google.com/file/d/1hPDsFK5liG1mT1gWb2joECLb-VGzcILo/view?usp=sharing
-    youtubeUrl      : https://www.youtube.com/watch?v=nO_HhyYWYqM&authuser=1
+    youtubeUrl      : https://www.youtu.be/O_HhyYWYqM
   - type            :
     start           : "20:00"
     end             : "20:15"
     title           : Break
   - type            : talk
-    title           : Running at Light Speed&58; Cloud Native Security Patterns
+    title           : Running at Light Speed&#58; Cloud Native Security Patterns
     start           : "20:15"
     end             : "21:00"
     abstract        : >-
@@ -80,7 +80,7 @@ items         :
                         He has spoken at conferences globally on topics such as secure design, mobile 
                         application security, and cloud-native security.
     presentationUrl : https://drive.google.com/file/d/1vY7MAjui4kSaY06wmX8QBs-p148R2IQe/view?usp=sharing
-    youtubeUrl      : https://www.youtube.com/watch?v=EWHi8KgOZpw&authuser=1
+    youtubeUrl      : https://www.youtu.be/EWHi8KgOZpw
   - type            :
     start           : "21:00"
     end             : ""
