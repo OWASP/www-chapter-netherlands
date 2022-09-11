@@ -16,7 +16,9 @@
 Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 
 {% for item in event.items %}{% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**  
-{% endif %}{% endfor %}  
+{% endif %}{% endfor %} 
+
+{% if event.extraInfo and event.extraInfo != '' %}{{ event.extraInfo }}{% endif %}
 
 {% assign talks = event.items | where: "type", "talk" %}  
 
