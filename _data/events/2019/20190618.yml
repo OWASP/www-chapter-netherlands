@@ -40,7 +40,7 @@ items         :
   - type            : talk
     title           : The Good, The Bad and The Ugly of Responsible Disclosure
     start           : "20:15"
-    end             : "21:00
+    end             : "21:00"
     abstract        : >-
                       So what’s has a JQuery bug that affected thousands of websites with one of 
                       the highest starred GitHub repos with 7,800 forks, a Domain Name Registrar 
