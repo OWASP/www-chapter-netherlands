@@ -28,8 +28,8 @@ Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 {% if item.youtubeUrl and item.youtubeUrl != '' %}[Watch the recording]({{ item.youtubeUrl }})  {% endif %}
 {% if item.abstract and item.abstract != '' %}##### Abstract:
 {{ item.abstract }}{% endif %}
-{% assign bios = item.speakers | where_exp: "item", "item.bio and item.bio != ''" %}
-{% if bios.size != 0 %}
+{% assign bioCount = item.speakers | where_exp: "item", "item.bio" | where_exp: "item", "item.bio != ''" | size %}
+{% if bioCount != 0 %}
 ##### Bio:
 {% for speaker in item.speakers %}  
 ###### {{ speaker.name }}: 
