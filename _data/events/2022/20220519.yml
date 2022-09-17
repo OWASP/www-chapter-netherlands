@@ -39,7 +39,7 @@ items         :
       bio             : >-
                         Lior Kaplan is Checkmarx’s open source officer, leading KICS open source project to Keep IaC Secure.
     presentationUrl : 
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/l85I6Z3p7ps
   - type            : talk
     title           : Secret Scanning Solutions
     abstract        : >-
