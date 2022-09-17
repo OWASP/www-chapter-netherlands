@@ -55,8 +55,8 @@ items         :
     presentationUrl :
     youtubeUrl      : https://youtu.be/CHI_T2HT1uk
   - type            : resource
-    title           : Introducing: The Security Champions Guidebook
+    title           : Introducing&#58; The Security Champions Guidebook
     youtubeUrl      : https://youtu.be/18Zgq9qB1NA
   - type            : resource
-    title           : Introducing: Guidelines on embedding SBOM in your organization
+    title           : Introducing&#58; Guidelines on embedding SBOM in your organization
     youtubeUrl      : https://youtu.be/XQ5wMa1XYXQ
