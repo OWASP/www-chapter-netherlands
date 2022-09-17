@@ -1,0 +1,24 @@
+date          : 2021-10-28
+information   : 
+livestreamUrl :
+location      : Hogeschool Rotterdam
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "19:15"
+    end             : "20:00"
+    title           : Web Security: Broken by default?
+    speakers        :
+    - name            : Niels Tanis
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/Vtqn6ttNiZA
+  - type            : talk
+    start           : "20:15"
+    end             : "21:00"
+    title           : Building A Software Security Program
+    speakers        :
+    - name            : Kuai Hinojosa
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/i6FAUbGW1XY
