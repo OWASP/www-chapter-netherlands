@@ -34,7 +34,7 @@ items         :
     presentationUrl : 
     youtubeUrl      : https://youtu.be/Nq0657t8odk?t=110
   - type            : talk
-    title           : Web Security Map (<a href="basisbeveiliging.nl">basisbeveiliging.nl</a>)
+    title           : Web Security Map (<a href="http://basisbeveiliging.nl">basisbeveiliging.nl</a>)
     abstract        : >-
                       Absolute transparency moves people forward. What happens when plotting 
                       the state of security on a map? Organizations start to adapt and improve. 
