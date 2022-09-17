@@ -12,13 +12,12 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 ## Welcome to OWASP Netherlands!
 
-The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, inheriting all the values that OWASP stands for. The chapter sets-out to build great security communities in the Netherlands by bringing security knowledge from enterprises to the wider security community and vice versa. We inspire security professionals on all levels to share knowlege, network, form alliances and to contribute to security open-sourcing. We bring awareness to enterprises of existing OWASP Security Tooling, Guidance and Good Practices in the field of Information Security, especially Application Security, DevSecOps and Cloud Security.
+The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, inheriting all the values that OWASP stands for. The chapter sets-out to build great security communities in the Netherlands by bringing security knowledge from enterprises to the wider security community and vice versa. We inspire security professionals on all levels to share knowledge, network, form alliances and to contribute to security open-sourcing. We bring awareness to enterprises of existing OWASP Security Tooling, Guidance and Good Practices in the field of Information Security, especially Application Security, DevSecOps and Cloud Security.
 
 ## Next Event  - Register Now
-Date: September 15 2022  
-Location: Radboud University, Huygens building, Room zaal HG00.307  
-Register on Meetup: [https://www.meetup.com/owasp-chapter-netherlands-meetup/events/287743579/](https://www.meetup.com/owasp-chapter-netherlands-meetup/events/287743579/)  
-Highlights: **The Red Cross of the Internet** and **Digitally securing The Netherlands - or convincing others to do it**  
+Date: October 20 2022  
+Location: coming soon  
+Highlights: to be announced shortly  
 
 Attendance is free and open to all members of the public.
 
