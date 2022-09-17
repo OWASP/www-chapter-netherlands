@@ -16,12 +16,12 @@
 Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 
 {% for item in event.items %}
-{% assign speakerString = "" %}
-{% assign speakerSeperator = "by " %}
-{% for speaker in item.speakers %}
-{% assign speakerString = speakerString | append: speakerSeperator | append: '<strong>' | append: speaker.name | append: '</strong>' %}
-{% assign speakerSeperator = " and " %}
-{% endfor %}
+  {% assign speakerString = "" %}
+  {% assign speakerSeperator = " by " %}
+  {% for speaker in item.speakers %}
+    {% assign speakerString = speakerString | append: speakerSeperator | append: '<strong>' | append: speaker.name | append: '</strong>' %}
+    {% assign speakerSeperator = " and " %}
+  {% endfor %}
 {% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**{{ speakerString }}  
 {% endif %}{% endfor %} 
 
