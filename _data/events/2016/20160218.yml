@@ -1,0 +1,18 @@
+date          : 2016-02-11
+information   :
+livestreamUrl :
+location      : De Haagse Hogeschool
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "19:15"
+    end             : "20:00"
+    title           : OWASP Security Knowledge Framework
+    speakers        :
+    - name            : Glenn Ten Cate
+    - name            : Riccardo Ten Cate
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/l93Ai4RwdpM
+
