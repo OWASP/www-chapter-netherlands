@@ -31,7 +31,8 @@ items         :
                         My name is Tom Stock, a cyber security master student at the Radboud 
                         University with a passion for computers, pretty code and solving complex 
                         problems with simple software.
-    youtubeUrl      :
+    presentationUrl : 
+    youtubeUrl      : https://youtu.be/Nq0657t8odk?t=110
   - type            : talk
     title           : Web Security Map ([basisbeveiliging.nl](basisbeveiliging.nl))
     abstract        : >-
@@ -56,7 +57,7 @@ items         :
                         Oh, and Elger is doing software things for over 25 years now… which 
                         makes them old, but not yet always grumpy.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/Nq0657t8odk?t=2416
   - type            : talk
     title           : Security Transformation Program
     abstract        : >-
@@ -133,4 +134,4 @@ items         :
                         he is leading the SAP CX Trust Office as CISO for SAP Customer Experience (CX) and drives the 
                         security transformation for this portfolio.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/Nq0657t8odk?t=4312
