@@ -9,7 +9,7 @@ items         :
   - type            : talk
     start           : "19:15"
     end             : "20:00"
-    title           : Web Security: Broken by default?
+    title           : Web Security&#58; Broken by default?
     speakers        :
     - name            : Niels Tanis
     presentationUrl :
