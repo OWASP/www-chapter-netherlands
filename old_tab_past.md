@@ -2,7 +2,7 @@
 title: Past
 displaytext: Past Events
 layout: null
-tab: true
+tab: false
 order: 3
 tags: netherlands
 ---
