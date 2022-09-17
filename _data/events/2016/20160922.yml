@@ -1,0 +1,25 @@
+date          : 2016-09-22
+information   :
+livestreamUrl :
+location      : Radboud University
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "19:15"
+    end             : "20:00"
+    title           : Handling Of Security Requirements In Software Development Lifecycle
+    speakers        :
+    - name            : Daniel Kefer
+    - name            : René Reuter
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/M2cplND7Y64
+  - type            : talk
+    start           : "20:15"
+    end             : "21:00"
+    title           : Hacking The OWASP Juice Shop
+    speakers        :
+    - name            : Björn Kimminich
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/62Mj0ZgZvXc
