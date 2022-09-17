@@ -1,5 +1,5 @@
 
-{% if include.currentPage == "home" %} <strong> {% endif %}[Main](new){% if include.currentPage == "home" %} </strong> {% endif %}
+{% if include.currentPage == "home" %} <strong> {% endif %}[Main](index){% if include.currentPage == "home" %} </strong> {% endif %}
 &nbsp;&nbsp;
 {% if include.currentPage == "supporters" %} <strong> {% endif %}[Supporters](supporters){% if include.currentPage == "supporters" %} </strong> {% endif %}
 &nbsp;&nbsp;
