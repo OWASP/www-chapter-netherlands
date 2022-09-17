@@ -9,7 +9,7 @@ locationUrl   :
 meetupUrl     :
 items         :
   - type            : talk
-    title           : Our Secrets Management Journey&58; From Code to Vault
+    title           : Our Secrets Management Journey&#58; From Code to Vault
     abstract        : >-
                       So you have an access key that you need to store somewhere. 
                       Maybe it is better not to put it in your code, nor in your 
@@ -29,7 +29,7 @@ items         :
                         why he published articles, blogs and gave trainings and talks 
                         about various subjects.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/qR6JCkZgOlY?t=402
   - type            : talk
     title           : Doing Security in DevOps, the right way!
     abstract        : >-
@@ -52,4 +52,4 @@ items         :
                         Irfaan is a Master in Computer Science (a programmer by heart) and 
                         is fascinated by the Inner Science of Yoga & Meditation.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/qR6JCkZgOlY?t=3913
