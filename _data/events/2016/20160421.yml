@@ -1,0 +1,16 @@
+date          : 2016-04-21
+information   :
+livestreamUrl :
+location      : Universiteitsbibliotheek UvA
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "20:15"
+    end             : "21:00"
+    title           : Web Application Firewall, Filter and Bypass
+    speakers        :
+    - name            : Aatif Khan
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/G0d3Ujhmgfw
