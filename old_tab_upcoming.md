@@ -2,7 +2,7 @@
 title: Upcoming
 displaytext: Upcoming Events
 layout: null
-tab: true
+tab: false
 order: 2
 tags: netherlands
 ---
