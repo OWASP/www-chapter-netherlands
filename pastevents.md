@@ -50,6 +50,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 {% assign event = currentEvent[1] %}
 
 {% assign eventDateString = event.date | date: "%B %-d %Y" %}
+{% if event.dateString and event.dateString != '' %}{% assign eventDateString = event.dateString %}{% endif %}
 
 {% assign eventDateUrl = eventDateString | replace: " ", "-" | downcase %}
 
