@@ -1,0 +1,24 @@
+date          : 2016-07-07
+information   :
+livestreamUrl :
+location      : SurfNET
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    start           : "19:15"
+    end             : "20:00"
+    title           : Find and fix software security problems…
+    speakers        :
+    - name            : Matias Madou
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/aAWg2adEA7M
+  - type            : talk
+    start           : "20:15"
+    end             : "21:00"
+    title           : How To Keep Your Secrets Safe(r) On An Android Device
+    speakers        :
+    - name            : Jeroen Willemsen
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/LUlQHan_0VM
