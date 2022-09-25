@@ -76,7 +76,7 @@ items         :
     end             : "21:00"
     abstract        : 
     speakers        :
-    - name            : 
+    - name            : ..
       bio             : 
     presentationUrl :
     youtubeUrl      :
