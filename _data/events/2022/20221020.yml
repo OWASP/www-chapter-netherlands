@@ -1,8 +1,82 @@
 date          : 2022-10-20
 information   : To be announced shortly.
 livestreamUrl :
-location      : 
+location      : Utrecht
 address       : 
 locationUrl   : 
 meetupUrl     : 
 items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Dinner
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : Attacking and Defending Kubernetes
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : >-
+                      Organizations are increasingly moving to cloud-based managed Kubernetes 
+                      deployments given the numerous benefits over self-managed deployments. 
+                      However, it comes with different security and monitoring considerations. 
+                      The reason behind these differences lies in the different management models 
+                      used by different cloud service providers, which most of the time depend on 
+                      the proposed Shared Responsibility Model.<br />
+                      This talk discusses some common security misconfigurations for Kubernetes 
+                      clusters and how attackers can exploit them via live demonstrations. We 
+                      will then focus on a custom cloud-native security monitoring solution built 
+                      in AWS. The goal is to alert relevant stakeholders of potential 
+                      misconfigurations and active breach attempts on an Amazon EKS Cluster. As 
+                      mentioned above, this talk includes <strong>live demonstrations</strong> of 
+                      some of the use-cases that have been implemented. The implemented solution 
+                      leverages AWS native tools, as well as an infrastructure-as-code template 
+                      for rapid deployment across accounts. Finally, we discuss potential use 
+                      cases for this solution and propose a general roadmap for improvements and 
+                      future capabilities.<br />
+                      This talk will be especially useful for individual contributors or professionals 
+                      who want to understand and develop in-house security monitoring tools for 
+                      Kubernetes without the need for expensive third-party platforms.
+    speakers        :
+    - name            : Akshit Sharma
+      bio             : >-
+                        Akshit is a cyber security consultant focused on Cloud Security and DevSecOps. 
+                        He has over six years of experience working with numerous clients in different 
+                        industries. He has focused on conceiving, designing, and implementing security 
+                        programs with special focus on building integrations and automation 
+                        accelerators. He was the lead implementer of a cloud-native security monitoring 
+                        solution for one of the largest Dutch financial institutions. His academic 
+                        background is in the field of Information Technology. Outside work Akshit likes 
+                        delving into the topic of international relations, going on hikes, listening to 
+                        music, traveling and enjoying good food.
+    - name            : Mauricio Cano
+      bio             : >-
+                        Mauricio Cano is a cloud pentester focused on container technologies. In 
+                        particular, he focuses on the security of containers and serverless architectures. 
+                        He has pentested Kubernetes clusters and serverless architectures for several 
+                        multinational financial institutions. Prior to his security work, he has a 
+                        background in academia and a Ph.D. in Computer Science from the University of 
+                        Groningen, focused on programming language design and formal methods to ensure 
+                        correctness. In his spare time, Cano enjoys reading, cooking, and solving puzzles.
+    presentationUrl :
+    youtubeUrl      :
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : 
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : 
+    speakers        :
+    - name            : 
+      bio             : 
+    presentationUrl :
+    youtubeUrl      :
