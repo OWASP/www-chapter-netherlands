@@ -1,8 +1,8 @@
 date          : 2022-10-20
 information   : To be announced shortly.
 livestreamUrl :
-location      : Utrecht
-address       : 
+location      : Ordina
+address       : Ringwade 1, 3439 LM Nieuwegein
 locationUrl   : 
 meetupUrl     : 
 items         :
@@ -70,13 +70,32 @@ items         :
     title           : Break with drinks
     start           : "20.00"
     end             : "20:15"
-  - type            : 
-    title           : Second talk
+  - type            : talk
+    title           : TIBER-EU, the European framework for threat intelligence-based ethical red-teaming
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
+    abstract        : >-
+                      The ECB launched the threat intelligence based ethical red teaming (TIBER-EU) framework 
+                      some time ago. More and more central banks within Europe are adopting this framework to 
+                      have their critical financial infrastructure tested against realistic threat. The 
+                      presentation has a balanced mix of theory and examples from the field.<br />
+                      Givan will share his view from the years of experience with developing the framework and 
+                      leading many red teaming engagements under the different TIBER ‘flavors’. He will walk 
+                      through the framework and explain how it ‘works’ and zooms in on the delivery of the red 
+                      and purple teaming parts. Giving you a glance at what is involved in performing a 
+                      realistic attack on live critical systems of a large financial institution.
     speakers        :
-    - name            : ..
-      bio             : 
+    - name            : Givan Kolster
+      bio             : >-
+                        With a passion for digital security, Givan Kolster co-founded FalconForce in 2020. He 
+                        is an offensive security specialist with over 10 years of experience in the field of 
+                        offensive security. <br />
+                        Givan focuses on delivering high-quality services to clients world-wide, both on 
+                        offensive and defensive side. He has led many red and purple teaming engagements. He 
+                        aims at making cohesive teams during purple teaming exercises, where he manages to 
+                        change the perspective from ‘versus’ to ‘collaborative’. This is important to drive 
+                        the learning experience for the defensive team.<br />
+                        In the past years, Givan was operationally involved in red teaming projects as a social 
+                        engineer, and as a trainer for many professionals new to the field.
     presentationUrl :
     youtubeUrl      :
