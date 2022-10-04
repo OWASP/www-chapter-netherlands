@@ -51,7 +51,7 @@ items         :
                         products and services to multiple companies. He is also a speaker and 
                         teaches students about information security and quantum technology.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/-SqHSQJxaow
   - type            : 
     title           : Break with drinks
     start           : "20.00"
@@ -79,4 +79,4 @@ items         :
                         how not to do those things anymore. Koen likes trains, architecture and 
                         classical music and is also convinced that Ludwig van Beethoven was a hacker.
     presentationUrl :
-    youtubeUrl      :
+    youtubeUrl      : https://youtu.be/N8JZ3ICvaQc
