@@ -16,7 +16,7 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 
 ## Next Event  - Register Now
 Date: November 24-25 2022  
-Location: Tilburg 
+Location: Tilburg  
 Highlights: [https://www.owaspbenelux.eu](https://www.owaspbenelux.eu)
 
 Attendance is free and open to all members of the public.
