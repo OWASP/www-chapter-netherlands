@@ -8,10 +8,44 @@ meetupUrl     :
 items         :
   - type            : talk
     title           : Bootstrap and increase your software assurance with OWASP SAMM v2.1
-    abstract        : 
+    abstract        : >-
+                      With our new release OWASP SAMM v2.1 - the prime maturity model for 
+                      software assurance - we provide an effective and measurable way for 
+                      all types of organizations to analyze and improve their software 
+                      security posture.<br />
+                      <br />
+                      OWASP SAMM supports the complete software lifecycle, including 
+                      development and acquisition, and is technology and process agnostic. 
+                      It is intentionally built to be evolutive and risk-driven in nature.<br />
+                      <br />
+                      During this talk Sebastien (project co-leader) will explain how to use 
+                      SAMM in your organization. And then continue on the added features in 
+                      our new release 2.1&#58;<br />
+                      The introduction of SAMM Practitioners<br />
+                      SAMM Guidance for all Security Practice streams, including&#58;<br />
+                      OWASP projects and content references<br />
+                      Mappings to other standards and models (including NIST SSDF, ISO27001, 
+                      BSIMM, …)<br />
+                      Best practices<br />
+                      Tools<br />
+                      New SAMM guidance for development teams<br />
+                      The updates resources, including the online SAMMwise tools, the new 
+                      PDF and the updated toolbox.<br />
+                      <br />
+                      We will conclude with the outcome of our 2022 SAMM survey and the 
+                      rebooted SAMM benchmark initiative.
     speakers        :
     - name            : Sebastien Deleersnyder
-      bio             : 
+      bio             : >-
+                        Sebastien (Seba) Deleersnyder is co-founder and CTO of Toreon. He 
+                        started the Belgian OWASP chapter and was an OWASP Foundation Board 
+                        member. With a development background and years of security experience, 
+                        he has trained countless developers to create more secure software. 
+                        Leading OWASP projects such as OWASP SAMM, he has genuinely helped 
+                        make the world a safer place. What’s he currently up to? Right now, 
+                        he’s busy adapting application security models to the evolving field 
+                        of DevOps and is also focused on getting the word out on Threat 
+                        Modeling to a broader audience.
     presentationUrl :
     youtubeUrl      : 
   - type            : talk
