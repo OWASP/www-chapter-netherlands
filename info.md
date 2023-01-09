@@ -5,3 +5,12 @@
 [LinkedIn](https://www.linkedin.com/groups/1987229/)  
 [Twitter](https://twitter.com/owasp_nl)  
 [YouTube](https://www.youtube.com/c/OWASPNetherlands)  
+
+### Board members
+* Edwin Gozeling
+* Irfaan Santoe
+* Jaiya "JP" Preston
+* Joren Poll
+* Martin Knobloch
+* Priyam Awasthy
+* Tom Wirschell
