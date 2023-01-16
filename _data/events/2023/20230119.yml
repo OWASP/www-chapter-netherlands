@@ -50,9 +50,25 @@ items         :
     youtubeUrl      : 
   - type            : talk
     title           : OWASP Security Knowledge Framework
-    abstract        : 
+    abstract        : >-
+                      Education is the first step in the Secure Software Development Lifecycle. 
+                      The free OWASP Security Knowledge Framework (SKF) is intended to be a 
+                      tool that is used as a guide for building and verifying secure software. 
+                      It can also be used to train developers about application security. This 
+                      talk will help you as a developer to become THE Neo of your development 
+                      team. We will show how you can do security by design and introduce other 
+                      quality gates into your development pipeline to ensure high end quality 
+                      and security of your project.
     speakers        :
     - name            : Glenn Ten Cate
-      bio             : 
+      bio             : >-
+                        As a coder, hacker, speaker, trainer, and security chapter leader 
+                        employed at ING Belgium Glenn has over 20 years of experience in the 
+                        field of security. One of the founders of defensive development [defdev] 
+                        is a security training series dedicated to helping you build and 
+                        maintain secureeaking at multiple other security conferences worldwide 
+                        software and sp. Glenn and his brother Riccardo also donated an entire 
+                        knowledge framework solely dedicated to helping developers make their 
+                        code secure by design to OWASP.  See SKF (Security knowledge framework). 
     presentationUrl :
     youtubeUrl      : 
