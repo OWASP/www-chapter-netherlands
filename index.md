@@ -22,7 +22,7 @@ Highlights: OWASP Global Projects (Juice Shop & ASVS)
 Attendance is free and open to all members of the public.
 
 ## Call for Speakers
-Want to speak at one of our meetups across the country? Entering our Call for Speakers is a prime opportunity to share your work, research, and interests with your peers, but also hone your speaking skills. No need to be a pro speaker! Simply send over your talk title and a short description in 500 words or less to [netherlands@owasp.org](mailto:netherlands-chapter@owasp.org)  .
+Want to speak at one of our meetups across the country? Entering our Call for Speakers is a prime opportunity to share your work, research, and interests with your peers, but also hone your speaking skills. No need to be a pro speaker! Simply fill in the form at [https://forms.gle/N7ooxG539zNjuUp37](https://forms.gle/N7ooxG539zNjuUp37)  .
 
 ## Get Involved
 
