@@ -16,8 +16,8 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 
 ## Next Event  - Register Now
 Date: March 16 2023  
-Location: Amsterdam
-Highlights: API security
+Location: Amsterdam  
+Highlights: API security  
 
 Attendance is free and open to all members of the public.
 
