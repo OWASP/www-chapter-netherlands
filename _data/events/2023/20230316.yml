@@ -11,7 +11,7 @@ livestreamUrl :
 location      : Adyen
 address       : Rokin 49, Amsterdam
 locationUrl   :
-meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/291470656/
 items         :
   - type      : 
     title     : Reception of attendees
