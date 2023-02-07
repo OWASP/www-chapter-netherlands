@@ -1,24 +1,145 @@
 date          : 2023-03-16
-information   : 
+information   : >-
+                **Delegates may be asked to provide a valid proof of photo 
+                ID (such as a driving licence or passport) to enter the 
+                venue.**<br />
+                This meetup&apos;s sponsor, Adyen - a financial services 
+                institution - works within a highly regulated environment, 
+                so we kindly ask for your understanding if you are asked 
+                to provide ID during your visit. 
 livestreamUrl :
-location      :
-address       :
+location      : Adyen
+address       : Rokin 49, Amsterdam
 locationUrl   :
-meetupUrl     :
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup
 items         :
-  - type            : talk
-    title           : 
-    abstract        : 
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : Crash course on the OWASP API Security Top 10
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : >-
+                      With the recent breaches to Optus, Twitter, and 
+                      T-Mobile, 2023 is destined to become the year 
+                      API security becomes the number one concern for 
+                      organizations, both at the board level and within 
+                      security and development teams. API security 
+                      poses unique challenges to builders and defenders, 
+                      and many of your existing detection and protection 
+                      measures may prove to be ineffective.<br />
+                      <br />
+                      Join Colin as he draws on his experience from 
+                      curating the industry&apos;s biggest API security 
+                      resource (APISecurity.io) in exploring the 
+                      following&#58;<br />
+                      Crash course on the OWASP API Security Top 10 
+                      (and how it differs from the OWASP Top 10)<br />
+                      A whistle-stop tour of some of the biggest API 
+                      breaches over the past 18 months, taking a look 
+                      at what went wrong, the impact, and most 
+                      importantly, how to prevent such attacks.<br />
+                      Finally, he will present the top techniques for 
+                      protecting your APIs from attack, starting 
+                      with secure development practices through to 
+                      API protection and threat detection.<br />
+                      <br />
+                      The content will be technical, with demos and 
+                      code samples, and based on real-world breaches. 
+                      By the end of the session, you will have an 
+                      understanding of the API Security Top 10, and 
+                      have a working knowledge of how to protect your 
+                      APIs, either at a code level or using runtime 
+                      protections.
     speakers        :
-    - name            : 
-      bio             : 
+    - name            : Colin Domoney
+      bio             : >-
+                        Colin has a long and varied career in 
+                        producing secure, rugged, and trustable 
+                        software and hardware products covering a 
+                        range of industries from military, consumer, 
+                        medical, automotive to financial services. 
+                        In the last decade, he has become a 
+                        sought-after evangelist and consultant in 
+                        building AppSec programs, and the latest 
+                        developments in DevSecOps. His greatest 
+                        passion is for teaching and inspiring others 
+                        to produce software we can trust, either 
+                        delivering webinars, in-person events or 
+                        speaking to the C-level.<br />
+                        <br />
+                        Currently, he is the Chief Technology 
+                        Evangelist with 42Crunch, the curator of 
+                        the APISecurity.io newsletter, and is 
+                        writing the industry’s first book on 
+                        defending APIs.
     presentationUrl :
     youtubeUrl      : 
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
   - type            : talk
-    title           : 
-    abstract        : 
-    speakers        :
-    - name            : 
-      bio             : 
+    title           : Managing APIs securely
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : >-
+                      When an organization offers an API, the API needs 
+                      to become a Managed API. This means that lifecycle 
+                      management, security, and throttling resources 
+                      become an important aspect of API Management, as 
+                      well as the ability of developers to find, explore 
+                      and subscribe to the API to use them.<br />
+                      <br />
+                      During the presentation, Rob will zoom into these 
+                      aspects and how an API Manager can help you with 
+                      security and throttling (including schema validation 
+                      and advanced scenarios) while at the same time 
+                      making the API easily available to your target 
+                      developers (inside or outside the organization).<br />
+                      <br />
+                      In the second part, he will elaborate on the 
+                      “shiny frontend / dirty backend”. This is an API 
+                      frontend that accesses legacy systems, databases, 
+                      but also the integration of a set of APIs etc., 
+                      thus enabling services that use older technology or 
+                      proprietary interfaces to have a modern appearance 
+                      to the outside world, e.g. exposing a legacy 
+                      insurance policy administration system as an API.<br />
+                      <br />
+                      Thirdly, we will look at the way you can implement 
+                      the Mastodon API. Since Elon Musk acquired Twitter l
+                      ast year, alternative platforms like Mastodon have 
+                      become more popular. It might be that this becomes 
+                      a viable channel to communicate with clients for 
+                      some organizations.
+    speakers        : 
+    - name            : Rob Blaauboer
+      bio             : >-
+                        Rob has 30 years of experience in IT in such 
+                        roles as developer, analyst, project manager, 
+                        business consultant, and management consultant. 
+                        He is currently Head of Training Services and 
+                        Integration Consultant at Yenlo, responsible for 
+                        the development and the actual training of 
+                        Yenlo’s clients and consultants.<br />
+                        <br />
+                        Next to these responsibilities, Rob is also an 
+                        avid blogger with almost 200 blogs on innovation on 
+                        Frankwatching, more than 150 blogs on WSO2 on Yenlo’s 
+                        website and many other blogs on various other sites. 
+                        Rob is also a regular contributor to BNR Zaken 
+                        Doen radio show on the area of technology and 
+                        innovation.
     presentationUrl :
     youtubeUrl      : 
