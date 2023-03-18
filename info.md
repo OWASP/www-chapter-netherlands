@@ -7,6 +7,7 @@
 [YouTube](https://www.youtube.com/c/OWASPNetherlands)  
 
 ### Board members
+* Cooper
 * Edwin Gozeling
 * Irfaan Santoe
 * Jaiya "JP" Preston
