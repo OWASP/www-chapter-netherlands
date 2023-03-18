@@ -1,0 +1,73 @@
+date          : 2023-04-20
+information   : This is an online meeting and will be streamed on [YouTube](https://youtu.be/Bhp3LpgtNZ4). The meeting will start at 19&#58;00.
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    title           : OWASP Juice Shop
+    abstract        : >-
+                      OWASP Juice Shop is probably the most modern and sophisticated insecure 
+                      web application! It can be used in security training, awareness demos, 
+                      CTFs and as a guinea pig for security tools!<br />
+                      <br />
+                      Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten 
+                      along with many other security flaws found in real-world 
+                      applications!<br />
+                      <br />
+                      At this event, we will take a tour through the application, hack it 
+                      live on screen, learn about Coding Challenges, CTF mode, cheat detection, 
+                      custom theming, and more!
+    speakers        :
+    - name            : Björn Kimminich
+      bio             : >-
+                        Bjoern Kimminich works as Product Group Lead Application Ecosystem 
+                        at Kuehne + Nagel, responsible – among other things – for the 
+                        Application Security program in corporate IT. He is an OWASP Lifetime 
+                        Member, the project leader of the OWASP Juice Shop, and a co-chapter 
+                        leader for the OWASP Germany Chapter. Björn also currently chairs 
+                        the OWASP Project Committee.
+    presentationUrl :
+    youtubeUrl      : 
+  - type            : talk
+    title           : The Rise of the Security Verification Standard
+    abstract        : >-
+                      We are currently seeing a big uptick in the progression of the OWASP 
+                      Application Security Verification Standard (ASVS) as well as the Mobile 
+                      version (MASVS). Not only are two major releases in the pipeline (5.0 
+                      and 2.0 respectively) but we are now seeing industry stand up, take 
+                      notice and start expecting more from applications, based on these 
+                      standards. In this talk, Josh Grossman (one of the ASVS project leaders) 
+                      will take you through these key developments including our vision for 
+                      the upcoming version 5.0 of the ASVS and how you and your employer can 
+                      be involved in the final release.<br />
+                      This will also be a chance to hear first-hand about a couple of new 
+                      programmes where you will see the SVSs being more widely used and 
+                      required and how you can prepare your organizations for this significant 
+                      impact this will have, whether you are developing applications or you 
+                      are assessing them.
+    speakers        :
+    - name            : Josh Grossman
+      bio             : >-
+                        Josh Grossman has worked as a consultant in IT and Application 
+                        Security and Risk for 15 years now, as well as a Software Developer. 
+                        This has given him an in-depth understanding of how to manage the 
+                        balance between business needs, developer needs and security needs 
+                        which goes into a successful software security programme.<br />
+                        <br />
+                        Josh is currently CTO for Bounce Security where he helps clients 
+                        improve and get better value from their application security 
+                        processes and provides specialist application security advice. His 
+                        consultancy work has led him to work, speak and deliver training 
+                        both locally and worldwide including privately for ISACA and Manicode 
+                        and publicly for OWASP&#39;s Global AppSec conferences. In his spare 
+                        time, he co-leads the OWASP Application Security Verification 
+                        Standard project and is on the OWASP Israel chapter board.<br />
+                        <br />
+                        He was also recognized as a Key Contributor for the OWASP Proactive 
+                        Controls project and has also contributed to the OWASP Top 10 Risks 
+                        project and the OWASP JuiceShop project.
+    presentationUrl :
+    youtubeUrl      : 
