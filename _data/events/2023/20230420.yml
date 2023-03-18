@@ -4,7 +4,7 @@ livestreamUrl :
 location      :
 address       :
 locationUrl   :
-meetupUrl     :
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/292323208/
 items         :
   - type            : talk
     title           : OWASP Juice Shop
