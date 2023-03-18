@@ -14,4 +14,3 @@
 * Joren Poll
 * Martin Knobloch
 * Priyam Awasthy
-* Tom Wirschell
