@@ -59,7 +59,7 @@ items         :
     start           : "20.00"
     end             : "20:15"
   - type            : talk
-    title           : About containers and their escapes: understanding escape patterns and possibilities
+    title           : About containers and their escapes&#58; understanding escape patterns and possibilities
     start           : "20:15"
     end             : "21:00"
     abstract        : >-
