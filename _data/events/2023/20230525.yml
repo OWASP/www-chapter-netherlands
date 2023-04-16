@@ -1,0 +1,99 @@
+date          : 2023-05-25
+information   : 
+livestreamUrl :
+location      : Exact
+address       : 
+locationUrl   :
+meetupUrl     : 
+items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : AppSec in IT contracts
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : >-
+                      Back in 2018 I wrote&#58; “In today’s multi-sourced 
+                      enterprise, your security is as good as your worst 
+                      written contract.” We have gotten better at writing 
+                      security into commercial contracts since I first 
+                      did my talk on this topic, but the yellow brick 
+                      road ahead of us still goes some ways.<br />
+                      <br />
+                      But how about AppSec, how well is it covered in 
+                      our IT contracts? What are the pitfalls and the 
+                      solutions? How do we avoid that someone else’s 
+                      security issues become our security problems? And, 
+                      by all means, let’s learn how to be a bit lazy, 
+                      and do better with less effort!
+    speakers        :
+    - name            : Sebastian Avarvarei
+      bio             : >-
+                        Currently working as Information Security 
+                        Manager at Canon EMEA, Sebastian has been in 
+                        IT and Security for over 20 years, covering a 
+                        multitude of roles ranging from Developer, 
+                        Security Architect, Auditor and Consultant, 
+                        before moving into security governance and 
+                        management, giving him a unique multi-faceted 
+                        view on today&#8217;s InfoSec challenges. He has 
+                        led multiple security improvement programs 
+                        and performed maturity assessments for a wide 
+                        variety of organizations - while continuously 
+                        asking himself&#58;&#8217;&#8217;Could we do 
+                        this in another way?&#8217;&#8217;
+    presentationUrl :
+    youtubeUrl      : 
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : About containers and their escapes: understanding escape patterns and possibilities
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : >-
+                      Containers have become one of the most common 
+                      underlying infrastructure for microservice 
+                      architectures. As such, they can often be part 
+                      of the external attack surface of enterprise 
+                      systems and applications (e.g., whenever a web 
+                      application hosted on a kubernetes cluster is 
+                      Internet-facing). Thus, it is important to 
+                      understand what types of (mis)configurations 
+                      can make containers more vulnerable against 
+                      attacks of different types. In this talk, 
+                      Mauricio will deep dive into different techniques 
+                      that can be used to escape containers. In 
+                      particular, he will talk about how to escape 
+                      privileged containers, the usage of different 
+                      capabilities, the usage of kernel exploits and a 
+                      few other ways in which attackers may use to gain 
+                      access to the hosts of the containers. 
+    speakers        : 
+    - name            : Mauricio Cano
+      bio             : >-
+                        Mauricio Cano is a cloud pentester focused on 
+                        container technologies. In particular, he focuses 
+                        on the security of containers and serverless 
+                        architectures. He has pentested Kubernetes 
+                        clusters and serverless architectures for several 
+                        multinational financial institutions. Prior to 
+                        his security work, he has a background in 
+                        academia and a Ph.D. in Computer Science from the 
+                        University of Groningen, focused on programming 
+                        language design and formal methods to ensure 
+                        correctness. In his spare time, Cano enjoys 
+                        reading, cooking, and solving puzzles.
+    presentationUrl :
+    youtubeUrl      : 
