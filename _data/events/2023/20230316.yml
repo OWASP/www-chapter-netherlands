@@ -27,8 +27,8 @@ items         :
     end       : "19:15"
   - type      : talk
     title           : Crash course on the OWASP API Security Top 10
-    start           : "19:15"
-    end             : "20:00"
+    start           : "20:15"
+    end             : "21:00"
     abstract        : >-
                       With the recent breaches to Optus, Twitter, and 
                       T-Mobile, 2023 is destined to become the year 
@@ -83,7 +83,7 @@ items         :
                         the APISecurity.io newsletter, and is 
                         writing the industry’s first book on 
                         defending APIs.
-    presentationUrl :
+    presentationUrl : https://drive.google.com/file/d/15LAfcgVe8vnGd6Bp8B7ikXScOpuUs_nD/view?usp=share_link
     youtubeUrl      : https://youtu.be/fqy4EdayS_A
   - type            : 
     title           : Break with drinks
@@ -91,8 +91,8 @@ items         :
     end             : "20:15"
   - type            : talk
     title           : Managing APIs securely
-    start           : "20:15"
-    end             : "21:00"
+    start           : "19:15"
+    end             : "20:00"
     abstract        : >-
                       When an organization offers an API, the API needs 
                       to become a Managed API. This means that lifecycle 
