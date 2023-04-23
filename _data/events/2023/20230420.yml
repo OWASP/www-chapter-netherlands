@@ -29,7 +29,7 @@ items         :
                         Member, the project leader of the OWASP Juice Shop, and a co-chapter 
                         leader for the OWASP Germany Chapter. Björn also currently chairs 
                         the OWASP Project Committee.
-    presentationUrl :
+    presentationUrl : https://intro.owasp-juice.shop/nl_2023
     youtubeUrl      : 
   - type            : talk
     title           : The Rise of the Security Verification Standard
