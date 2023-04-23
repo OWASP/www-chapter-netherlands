@@ -16,7 +16,7 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 
 ## Next Event - Register Now
 Date: May 25 2023  
-Location: Exact, Delft 
+Location: Exact, Delft  
 Highlights: AppSec in IT contracts and About containers and their escapes: understanding escape patterns and possibilities
 
 Attendance is free and open to all members of the public.
