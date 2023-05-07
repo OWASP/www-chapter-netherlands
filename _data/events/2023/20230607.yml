@@ -1,0 +1,104 @@
+date          : 2023-06-07
+information   : >-
+                <b>Want to learn more about Web Application Firewalls?</b><br />
+                <br />
+                <b>Join the Dutch Chapters of OWASP, ISACA, and ISC2 for their first-ever 
+                combined online webinar on Wednesday, June 7<sup>th</sup>,  from 19:00 to 21:00 CET.</b>
+extraInfo     : >-
+                <i>This is an online webinar, and the streaming link will be added soon.</i><br />
+                <br />
+                With an expert presentation and a panel discussion, you will have the opportunity 
+                to learn about best practices and get your questions answered by professionals in 
+                the field.<br />
+                <br />
+                By combining the focus areas and driving forces of each Chapter, this event ensures 
+                that this topic will be addressed from different perspectives, such as risk, 
+                compliance, audit,cybersecurity, and technical.<br />
+                <br />
+                Aatif Khan, a data-driven AI and cybersecurity expert, will kick off the webinar 
+                with a compact presentation on Web Application Firewalls (WAFs). After which, we 
+                will open the panel discussion and answer questions from the audience. Our panel 
+                members are Aatif Khan, Menno Swam and Nico van Rooyen.<br />
+                <br />
+                See below for more information on our panel members and the topic.<br />
+                <br />
+                Register today for this unique opportunity!
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/293379819
+items         :
+  - type      : 
+    title     : Welcome
+    start     : "19:00"
+    end       : "19:10"
+  - type            : talk
+    title           : Web Application Firewalls
+    start     : "19:10"
+    end       : "19:30" 
+    speakers        : 
+    - name            : Aatif Khan
+    presentationUrl : 
+    youtubeUrl      : 
+  - type            : talk
+    title           : Panel Discussion on Web Application Firewalls
+    speakers        :
+    - name            : Aatif Khan
+      bio             : >-
+                        Aatif Khan is a data-driven, seasoned AI &amp; cyber security expert who 
+                        is passionate about creating Aatif Khan is a data-driven, seasoned AI &amp; 
+                        cyber security expert who is passionate about creating customer-focused 
+                        products. His focus centers around developing cyber defense strategies, 
+                        establishing  security operations centers for large enterprises, developing 
+                        data protection strategies, implementing data privacy in day-to-day operations,
+                        and developing AI strategy, governance, and risk management programs for 
+                        enterprises. He specializes in building and scaling security programmes from 
+                        startups to Fortune 500 organizations.<br />
+                        <br />
+                        With 15+ years of experience in information security, Aatif has spoken at 
+                        numerous conferences such as BlackHat, SANS &amp; UK NCSC CyberThreat London, 
+                        Security BSides London, Cyber Security Asia Malaysia, @Hack, etc., amongst other 
+                        conferences across the EMEA region. He has been interviewed by the Associated 
+                        Press, Voice of America, Hakin9, and numerous other media channels for his 
+                        expertise on emerging cybersecurity threats. Aatif holds a Master of Science 
+                        in Artificial Intelligence from LJMU, UK, and is currently working on AI-driven 
+                        advanced threat detection and response with modern security analytics.
+    - name            : Menno Swam
+      bio             : >-
+                        Menno is a Senior Specialist at KPMG IT Advisory The Netherlands, and part of the 
+                        Cyber Assessment (CA) team. The CA team consists of cyber security specialists 
+                        executing technical IT Advisory engagements, IT Auditing and management of IT 
+                        infrastructure, IT processes and IT organizations.<br />
+                        <br />
+                        Menno has experience in the field of Information Security and Risk Management for
+                        companies in the Financial services sector, due to his experience as an Information 
+                        Security Officer and Internal Auditor. Moreover, he has specific knowledge of security 
+                        frameworks (such as PCI-DSS and ISO27001) as well as the technical execution of 
+                        financial law (such as WWFT and PSD2). While working in complex IT environments, Menno 
+                        has been able to get accustomed with all facets of information security, both technical 
+                        and non-technical. As such, he is able to translate technical findings and risks to 
+                        business impact and opportunities.
+    - name            : Nico van Rooyen
+      bio             : >-
+                        Nico is currently the CISO at CPro, a cyber security consulting firm and the one-stop 
+                        shop for specialized cyber security services. They offer complete solutions that enable 
+                        organizations of all sizes to protect their systems, networks, and data from digital 
+                        threats. He is also a proud Executive Board Member of the ISACA NL chapter and has been 
+                        an active member for many years.<br />
+                        <br />
+                        He started his career as an IT auditor specializing in information security, at KPMG in 
+                        South Africa and for the past decade, he has deepened his experience in information 
+                        security while obtaining various certifications such as CISA, CISM, CEH, and COBIT.<br />
+                        During this time, Nico worked across various countries including Australia, Denmark, 
+                        Israel,Sweden, Europe, the UK, and the USA.<br />
+                        <br />
+                        In 2017, he moved to the Netherlands with his wife, who is expecting their second baby 
+                        boy in September of this year.      
+    moderators     :
+    -name             : Ramzy Elmasry
+    youtubeUrl      : 
+  - type      : 
+    title     : Closing and Next Steps
+    start     : "20:55"
+    end       : "21:00"
