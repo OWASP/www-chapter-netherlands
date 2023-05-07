@@ -22,6 +22,11 @@ Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
     {% assign speakerString = speakerString | append: speakerSeperator | append: '<strong>' | append: speaker.name | append: '</strong>' %}
     {% assign speakerSeperator = " and " %}
   {% endfor %}
+  {% assign speakerSeperator = " moderated by " %}
+  {% for moderator in item.moderators %}
+    {% assign speakerString = speakerString | append: speakerSeperator | append: '<strong>' | append: moderator.name | append: '</strong>' %}
+    {% assign speakerSeperator = " and " %}
+  {% endfor %}
 {% if item.start and item.start != '' %}{{ item.start }} - {{ item.end }} - **{{ item.title }}**{{ speakerString }}  
 {% endif %}{% endfor %} 
 
