@@ -43,6 +43,8 @@ items         :
     youtubeUrl      : 
   - type            : talk
     title           : Panel Discussion on Web Application Firewalls
+    start     : "19:30"
+    end       : "20:55"
     speakers        :
     - name            : Aatif Khan
       bio             : >-
