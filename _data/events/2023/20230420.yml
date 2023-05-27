@@ -30,7 +30,7 @@ items         :
                         leader for the OWASP Germany Chapter. Björn also currently chairs 
                         the OWASP Project Committee.
     presentationUrl : https://intro.owasp-juice.shop/nl_2023
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/b5gdaP2ZvBs
   - type            : talk
     title           : The Rise of the Security Verification Standard
     abstract        : >-
@@ -70,4 +70,4 @@ items         :
                         Controls project and has also contributed to the OWASP Top 10 Risks 
                         project and the OWASP JuiceShop project.
     presentationUrl :
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/dlAY2lEnSlg
