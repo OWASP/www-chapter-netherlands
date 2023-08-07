@@ -4,7 +4,7 @@ livestreamUrl :
 location      : Hogeschool van Utrecht
 address       : Heidelberglaan 15, 3584CS Utrecht
 locationUrl   :
-meetupUrl     : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/295296523/ 
 items         :
   - type      : 
     title     : Reception of attendees
@@ -42,7 +42,7 @@ items         :
                         With a background in software development and architecture, his focus is on 
                         software security. Martin is actively involved in OWASP where he is a frequent 
                         contributor to various projects and initiatives. Martin is taking part in the 
-                        organizing of local and global OWASP conferences and served nmore than 5 years
+                        organizing of local and global OWASP conferences and served more than 5 years
                         as a member of the Board of Directors, two of them as Chairmen of the board.<br />  
                         During his career, Martin has been a recognized teacher, guest lecturer at various 
                         universities and invited speaker and trainer at local and international software 
