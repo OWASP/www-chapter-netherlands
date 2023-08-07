@@ -1,8 +1,8 @@
 date          : 2023-09-21
 information   : 
 livestreamUrl :
-location      : TBA
-address       : 
+location      : Hogeschool van Utrecht
+address       : Padualaan 99, 3584 CH Utrecht
 locationUrl   :
 meetupUrl     : 
 items         :
@@ -19,15 +19,34 @@ items         :
     start     : "19:00"
     end       : "19:15"
   - type      : talk
-    title           : TBA
+    title           : SAST, DAST, IAST... xAST de-mystified
     start           : "19:15"
     end             : "20:00"
     abstract        : >-
-                      
+                      Dev[Sec]Ops has embraced CI/CD's build, test and deployment approach, now pushing 
+                      secure test automation into the dev's build pipelines.<br />
+                      Now with SCA added to the xAST security verification in your pipeline, as more is 
+                      better, right?<br />
+                      But, without clear expectation what to expect from your tool (usage), how to choose 
+                      the right tool?<br />
+                      During this presentation, you will be guided to define the problem first, in order 
+                      to choose the tools to solve it. Let's grow maturity and not push on security test 
+                      automation in the development pipelines but adding useful quality assurance in your 
+                      production line!
     speakers        :
-    - name            : 
+    - name            : Martin Knobloch
       bio             : >-
-                        
+                        Martin Knobloch, Global AppSec Strategist with Fortify, part of OpenText, is 
+                        a long-time security leader with more than 25 years of experience in the field 
+                        of IT and +15 in Cyber security.<br />  
+                        With a background in software development and architecture, his focus is on 
+                        software security. Martin is actively involved in OWASP where he is a frequent 
+                        contributor to various projects and initiatives. Martin is taking part in the 
+                        organizing of local and global OWASP conferences and served nmore than 5 years
+                        as a member of the Board of Directors, two of them as Chairmen of the board.<br />  
+                        During his career, Martin has been a recognized teacher, guest lecturer at various 
+                        universities and invited speaker and trainer at local and international software 
+                        development, testing and security conferences throughout the world.
     presentationUrl :
     youtubeUrl      : 
   - type            : 
@@ -35,14 +54,22 @@ items         :
     start           : "20.00"
     end             : "20:15"
   - type            : talk
-    title           : TBA
+    title           : DAST in the world of DevSecOps
     start           : "20:15"
     end             : "21:00"
     abstract        : >-
-                      
+                      -
     speakers        : 
-    - name            : 
+    - name            : Amit Sharma
       bio             : >-
-                        
+                        Amit Kumar Sharma is a Security Evangelist with more than a decade of experience in 
+                        Application Security and Fuzz testing. He has worked in various roles including but 
+                        not limited to Penetration Testing and Red Teaming. During his career he got a chance 
+                        to work with various technologies in the domain of Telecom, Medical, ICS and 
+                        Automotive Security. He works as a Security Specialist with Synopsys Inc , an 
+                        organization which provides Products and Consultation on how security fits in the SDLC 
+                        and evangelizing technologies like IAST, Open Source Security, Binary Analysis and 
+                        Fuzz testing to uncover security issues. Currently his areas of research includes 
+                        DevSecOps, Security in SDLC, Kubernetes Security and Secrets Management.
     presentationUrl :
     youtubeUrl      : 
