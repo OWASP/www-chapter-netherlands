@@ -41,7 +41,7 @@ items         :
     speakers        : 
     - name            : Aatif Khan
     presentationUrl : 
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/sLzbfRPcSqc
   - type            : talk
     title           : Panel Discussion on Web Application Firewalls
     start     : "19:30"
