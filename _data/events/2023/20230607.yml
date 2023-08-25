@@ -41,7 +41,7 @@ items         :
     speakers        : 
     - name            : Aatif Khan
     presentationUrl : 
-    youtubeUrl      : https://youtu.be/sLzbfRPcSqc
+    youtubeUrl      : 
   - type            : talk
     title           : Panel Discussion on Web Application Firewalls
     start     : "19:30"
@@ -100,7 +100,7 @@ items         :
                         boy in September of this year.      
     moderators     :
     - name            : Ramzy Elmasry
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/sLzbfRPcSqc
   - type      : 
     title     : Closing and Next Steps
     start     : "20:55"
