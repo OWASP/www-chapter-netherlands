@@ -38,6 +38,7 @@ items         :
                       and do better with less effort!
     speakers        :
     - name            : Sebastian Avarvarei
+      picture         : https://drive.google.com/uc?export=view&id=1DEZWmZFOJAWJkE71U7DzmLcm6Arayvc4
       bio             : >-
                         Currently working as Information Security 
                         Manager at Canon EMEA, Sebastian has been in 
@@ -82,6 +83,7 @@ items         :
                       access to the hosts of the containers. 
     speakers        : 
     - name            : Mauricio Cano
+      picture         : https://drive.google.com/uc?export=view&id=1j9llWROyp1IN-GZK4HFpuEB9xBbJow3X
       bio             : >-
                         Mauricio Cano is a cloud pentester focused on 
                         container technologies. In particular, he focuses 
