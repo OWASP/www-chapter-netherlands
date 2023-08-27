@@ -46,7 +46,7 @@ Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 {% for speaker in item.speakers %}  
 ###### {{ speaker.name }}: 
 <div>
-{% if speaker.picture and speaker.picture != '' %}<img style="background-image: url({{ speaker.picture }}); width: 200px; height: 200px; border-radius: 50%; float: left; background-size: cover; margin-right: 40px; margin-top: 10px;">{% endif %}
+{% if speaker.picture and speaker.picture != '' %}<img src="assets/images/speakers/Profile.png" alt="Profile picture {{ speaker.name }}" style="background-image: url(assets/images/speakers/{{ speaker.picture }}); width: 200px; height: 200px; border-radius: 50%; float: left; background-size: cover; margin-right: 40px; margin-top: 10px;">{% endif %}
 {{ speaker.bio }}
 </div>
 {% endfor %} 
