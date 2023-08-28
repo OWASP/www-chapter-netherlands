@@ -1,0 +1,11 @@
+---
+
+layout: none
+
+---
+
+BEGIN:VCALENDAR
+VERSION: 2.0
+PRODID:NONE
+{% assign years = site.data.events | sort %}{% for year_hash in years %}{% assign events = year_hash[1] | sort %}{% for currentEvent in events %}{% assign event = currentEvent[1] %}{% include event_ical.md %}{% endfor %}{% endfor %}
+END:VCALENDAR
