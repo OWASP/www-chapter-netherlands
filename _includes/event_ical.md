@@ -1,5 +1,5 @@
 BEGIN:VEVENT
-DTSTAMP:{{ event.date | date: "%Y0101T010000Z" }}
+DTSTAMP:{{ event.date | date: "%Y0101T010001Z" }}
 UID:{{ event.date | date: "%Y%m%d" }}-netherlands@owasp.org
 ORGANIZER:mailto:netherlands@owasp.org
 DTSTART;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
