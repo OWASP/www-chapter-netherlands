@@ -16,5 +16,5 @@ DTEND;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
   1800
 {%- endif -%}
 00Z
-SUMMARY:{{ event.date | date: "%B %-d %Y" }} OWASP Chapter Netherlands meeting
+SUMMARY:OWASP Chapter Netherlands meeting
 END:VEVENT
