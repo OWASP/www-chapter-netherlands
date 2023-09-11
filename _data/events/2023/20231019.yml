@@ -1,0 +1,68 @@
+date          : 2023-10-19
+last-modified : 2023-09-09
+page          : upcomming
+information   : 
+livestreamUrl :
+location      : Radboud University, Huygens building
+address       : Heyendaalseweg 135, Nijmegen
+locationUrl   : https://www.ru.nl/fnwi/faculteit/profiel/huygensgebouw
+meetupUrl     : 
+items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : TBA
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : >-
+    speakers        :
+    - name            : Marinus Kuivenhoven
+      picture         : 
+      bio             : >-
+    presentationUrl :
+    youtubeUrl      : 
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : Unveiling the secrets in your code&#58; Detecting and Triaging exposed credentials at scale
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : >-
+                      Security misconfigurations are often easy to exploit but 
+                      also easy to avoid. How can we raise security awareness 
+                      and at the same time prevent security misconfigurations 
+                      (such as leaked credentials) from reaching production? 
+                      Is there an easy way to scan, triage and follow-up on 
+                      exposed secrets at enterprise scale? ABN Amro open 
+                      sourced Repository Scanner and runs Repository Scanner 
+                      internally at scale, exposing secrets in source code 
+                      repositories and thereby raising security awareness while 
+                      at the same time improving the security posture by 
+                      remediating security misconfigurations.
+    speakers        :
+    - name            : Ingmar Vis
+      picture         : 
+      bio             : >-
+                        Ingmar Vis has been working in CICD for 7 years. 
+                        In his current role, Ingmar acts as a Product Owner 
+                        for 2 teams at ABN Amro. 1 team is responsible for 
+                        delivering the Secure Coding capability for all 
+                        developers, the 2nd team is responsible for the 
+                        infrastructure and automation of CICD tooling. 
+                        Ingmar works on aspects such as Static Analysis, 
+                        Software Composition Analysis, Container Security, 
+                        and Secret Detection.
+    presentationUrl :
+    youtubeUrl      : 
