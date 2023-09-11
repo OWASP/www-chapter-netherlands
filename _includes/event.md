@@ -35,11 +35,13 @@ Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 {% assign talks = event.items | where: "type", "talk" %}  
 
 {% for item in talks %} 
+{% if item.title != "TBA" -%}
 #### {{ item.title }}
 {% if item.presentationUrl and item.presentationUrl != '' %}[Download the presentation]({{ item.presentationUrl }})  {% endif %}
 {% if item.youtubeUrl and item.youtubeUrl != '' %}[Watch the recording]({{ item.youtubeUrl }})  {% endif %}
 {% if item.abstract and item.abstract != '' %}##### Abstract:
 {{ item.abstract }}{% endif %}
+{%- endif %}
 {% assign bioCount = item.speakers | where_exp: "item", "item.bio" | where_exp: "item", "item.bio != ''" | size %}
 {% if bioCount != 0 %}
 ##### Bio:
