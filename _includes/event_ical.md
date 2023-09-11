@@ -73,7 +73,7 @@ DTEND;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
           {%- break %}
       {%- endif %}
     {%- endfor %}
-  {%- assign newline = "\n  
-"%}
+  {%- assign newline = "\n
+ "%}
 {%- endfor %}
 END:VEVENT
