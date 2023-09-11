@@ -34,7 +34,8 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
 {%- endif %}
 {% assign descriptionString = "DESCRIPTION:" %}
 {%- if event.information and event.information != '' %}
-  {%- assign deskriptionString = descriptionString | append: event.information %}
+  {%- assign descriptionString = descriptionString | append: event.information | append: "\n  
+ " %}
 {%- endif %}
 {%- for item in event.items %}
   {%- assign speakerString = "" %}
@@ -59,6 +60,9 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
 " %}
 {%- endif %}
 {%- assign dateForLink = event.date | date: "%B %-d %Y" | replace: " ", "-" | downcase %}
+{%- if event.dateString and event.dateString != '' %}
+  {%- assign dateForLink =  event.dateString | replace: " ", "-" | downcase %}
+{%- endif %}
 {%- assign descriptionString = descriptionString | append: "\n  
  " | append: "For more information: https://www.owasp.org/www-chapter-netherlands/allevents#" | append: dateForLink | append: "." %}
 {%- assign descriptionString = descriptionString | strip_html | replace: "&#58;",":" %}
