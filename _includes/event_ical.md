@@ -5,20 +5,28 @@ ORGANIZER:mailto:netherlands@owasp.org
 {%- if event.last-modified %}
 LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
 {%- endif %}
-DTSTART;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
-{%- if event.items.first.start && event.items.first.start != "" -%}
-  {{ event.items.first.start | replace: ":", "" }}
+{% if event.calendarStart and event.calendarStart != "" -%}
+  DTSTART;TZID=Europe/Amsterdam:{{ event.calendarStart }}
 {%- else -%}
-  1800
-{%- endif -%}
-00Z
-DTEND;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
-{%- if event.items.last.end and event.items.last.end != "" -%}
-  {{ event.items.last.end | replace: ":", "" }}
+  DTSTART;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
+  {%- if event.items.first.start && event.items.first.start != "" -%}
+    {{ event.items.first.start | replace: ":", "" }}
+  {%- else -%}
+    1800
+  {%- endif -%}
+  00Z
+{%- endif %}
+{% if event.calendarEnd and event.calendarEnd != "" -%}
+  DTEND;TZID=Europe/Amsterdam:{{ event.calendarEnd }}
 {%- else -%}
-  1800
-{%- endif -%}
-00Z
+  DTEND;TZID=Europe/Amsterdam:{{ event.date | date: "%Y%m%d" }}T
+  {%- if event.items.last.end and event.items.last.end != "" -%}
+    {{ event.items.last.end | replace: ":", "" }}
+  {%- else -%}
+    1800
+  {%- endif -%}
+  00Z
+{%- endif %}
 {% if event.calendarTitle and event.calendarTitle != "" -%}
   SUMMARY:{{ event.calendarTitle }}
 {%- else -%}
