@@ -6,7 +6,7 @@ livestreamUrl :
 location      : Radboud University, Huygens building
 address       : Heyendaalseweg 135, Nijmegen
 locationUrl   : https://www.ru.nl/fnwi/faculteit/profiel/huygensgebouw
-meetupUrl     : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/296179697/
 items         :
   - type      : 
     title     : Reception of attendees
