@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Netherlands
 tags: netherlands
 region: Europe
+country: Netherlands
 meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 ---
