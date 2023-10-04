@@ -21,14 +21,35 @@ items         :
     start     : "19:00"
     end       : "19:15"
   - type      : talk
-    title           : TBA
+    title           : Hacking CI/CD Pipelines&#58; Some use cases for hacking CI/CD orchestrators
     start           : "19:15"
     end             : "20:00"
     abstract        : >-
+                      In this talk, we will discuss the hacking of CI/CD orchestrators, 
+                      with a focus on GitHub actions and what kind of things can be done 
+                      from the perspective of a malicious insider. Some of the cases we 
+                      will discuss are&#58;
+                      - Secret enumeration. 
+                      - Accessing infrastructure through runners.
+                      - Public runners vs Private runners.
+                      - Code injection in the pipeline and supply chain.
+                      - GitHub commits information.
+                      - Secret searching in the repository. 
+                      The goal is to provide a broad view on the attack surface that can 
+                      be derived from CI/CD orchestrators and their runners, as well as 
+                      to show a few demos on how this can be done.
     speakers        :
-    - name            : Marinus Kuivenhoven
+    - name            : Mauricio Cano
       picture         : 
       bio             : >-
+                        Mauricio Cano is a cloud pentester focused on container technologies. 
+                        In particular, he focuses on the security of containers and serverless 
+                        architectures. He has pentested Kubernetes clusters and serverless 
+                        architectures for several multinational financial institutions. Prior 
+                        to his security work, he has a background in academia and a Ph.D. in 
+                        Computer Science from the University of Groningen, focused on programming 
+                        language design and formal methods to ensure correctness. In his spare 
+                        time, Cano enjoys reading, cooking, and solving puzzles.
     presentationUrl :
     youtubeUrl      : 
   - type            : 
