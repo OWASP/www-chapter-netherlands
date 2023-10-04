@@ -28,13 +28,13 @@ items         :
                       In this talk, we will discuss the hacking of CI/CD orchestrators, 
                       with a focus on GitHub actions and what kind of things can be done 
                       from the perspective of a malicious insider. Some of the cases we 
-                      will discuss are&#58;
-                      - Secret enumeration. 
-                      - Accessing infrastructure through runners.
-                      - Public runners vs Private runners.
-                      - Code injection in the pipeline and supply chain.
-                      - GitHub commits information.
-                      - Secret searching in the repository. 
+                      will discuss are&#58;<br /> 
+                      - Secret enumeration.<br />
+                      - Accessing infrastructure through runners.<br />
+                      - Public runners vs Private runners.<br />
+                      - Code injection in the pipeline and supply chain.<br />
+                      - GitHub commits information.<br />
+                      - Secret searching in the repository.<br />
                       The goal is to provide a broad view on the attack surface that can 
                       be derived from CI/CD orchestrators and their runners, as well as 
                       to show a few demos on how this can be done.
