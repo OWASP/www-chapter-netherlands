@@ -41,13 +41,16 @@ Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 {% if item.youtubeUrl and item.youtubeUrl != '' %}[Watch the recording]({{ item.youtubeUrl }})  {% endif %}
 {% if item.abstract and item.abstract != '' %}##### Abstract:
 {{ item.abstract }}{% endif %}
-{%- endif %}
+{% endif %}
 {% assign bioCount = item.speakers | where_exp: "item", "item.bio" | where_exp: "item", "item.bio != ''" | size %}
 {% if bioCount != 0 %}
 ##### Bio:
 {% for speaker in item.speakers %}  
 ###### {{ speaker.name }}: 
+<div>
+{% if speaker.picture and speaker.picture != '' %}<img src="assets/images/speakers/Profile.png" alt="Profile picture {{ speaker.name }}" style="background-image: url(assets/images/speakers/{{ speaker.picture }}); width: 200px; height: 200px; border-radius: 50%; float: left; background-size: cover; margin-right: 40px; margin-top: 10px;">{% endif %}
 {{ speaker.bio }}
+</div>
 {% endfor %} 
 {% endif %}
 {% endfor %}  
