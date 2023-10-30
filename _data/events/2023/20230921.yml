@@ -18,10 +18,35 @@ items         :
     title     : Welcome and OWASP updates
     start     : "19:00"
     end       : "19:15"
-  - type      : talk
-    title           : SAST, DAST, IAST... xAST de-mystified
+  - type            : talk
+    title           : DAST in the world of DevSecOps
     start           : "19:15"
     end             : "20:00"
+    abstract        : >-
+                      -
+    speakers        : 
+    - name            : Amit Sharma
+      picture         : Amit.png
+      bio             : >-
+                        Amit Kumar Sharma is a Security Evangelist with more than a decade of experience in 
+                        Application Security and Fuzz testing. He has worked in various roles including but 
+                        not limited to Penetration Testing and Red Teaming. During his career he got a chance 
+                        to work with various technologies in the domain of Telecom, Medical, ICS and 
+                        Automotive Security. He works as a Security Specialist with Synopsys Inc , an 
+                        organization which provides Products and Consultation on how security fits in the SDLC 
+                        and evangelizing technologies like IAST, Open Source Security, Binary Analysis and 
+                        Fuzz testing to uncover security issues. Currently his areas of research includes 
+                        DevSecOps, Security in SDLC, Kubernetes Security and Secrets Management.
+    presentationUrl :
+    youtubeUrl      : https://youtu.be/RBIcHVYrsuY
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type      : talk
+    title           : SAST, DAST, IAST... xAST de-mystified
+    start           : "20:15"
+    end             : "21:00"
     abstract        : >-
                       Dev[Sec]Ops has embraced CI/CD's build, test and deployment approach, now pushing 
                       secure test automation into the dev's build pipelines.<br />
@@ -49,29 +74,4 @@ items         :
                         universities and invited speaker and trainer at local and international software 
                         development, testing and security conferences throughout the world.
     presentationUrl :
-    youtubeUrl      : 
-  - type            : 
-    title           : Break with drinks
-    start           : "20.00"
-    end             : "20:15"
-  - type            : talk
-    title           : DAST in the world of DevSecOps
-    start           : "20:15"
-    end             : "21:00"
-    abstract        : >-
-                      -
-    speakers        : 
-    - name            : Amit Sharma
-      picture         : Amit.png
-      bio             : >-
-                        Amit Kumar Sharma is a Security Evangelist with more than a decade of experience in 
-                        Application Security and Fuzz testing. He has worked in various roles including but 
-                        not limited to Penetration Testing and Red Teaming. During his career he got a chance 
-                        to work with various technologies in the domain of Telecom, Medical, ICS and 
-                        Automotive Security. He works as a Security Specialist with Synopsys Inc , an 
-                        organization which provides Products and Consultation on how security fits in the SDLC 
-                        and evangelizing technologies like IAST, Open Source Security, Binary Analysis and 
-                        Fuzz testing to uncover security issues. Currently his areas of research includes 
-                        DevSecOps, Security in SDLC, Kubernetes Security and Secrets Management.
-    presentationUrl :
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/x4LDIqM8RlQ

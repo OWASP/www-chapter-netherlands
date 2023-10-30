@@ -51,7 +51,7 @@ items         :
                         language design and formal methods to ensure correctness. In his spare 
                         time, Cano enjoys reading, cooking, and solving puzzles.
     presentationUrl :
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/PBPYFcuSrTU
   - type            : 
     title           : Break with drinks
     start           : "20.00"
@@ -86,4 +86,4 @@ items         :
                         Software Composition Analysis, Container Security, 
                         and Secret Detection.
     presentationUrl :
-    youtubeUrl      : 
+    youtubeUrl      : https://youtu.be/zgLEoKc-W2c
