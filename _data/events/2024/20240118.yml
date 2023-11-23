@@ -1,0 +1,48 @@
+date          : 2024-01-18
+last-modified : 2023-11-23
+page          : upcomming
+information   : 
+livestreamUrl :
+location      : VU Amsterdam
+address       : 
+locationUrl   : 
+meetupUrl     : 
+items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : TBA
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : 
+    speakers        :
+    - name            : Ahmed Eldemrdash
+      picture         : 
+      bio             : 
+    presentationUrl :
+    youtubeUrl      : 
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : TBA
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : 
+    speakers        :
+    - name            : Marcin Wolak
+      picture         : 
+      bio             : 
+    presentationUrl :
+    youtubeUrl      : 
