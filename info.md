@@ -2,7 +2,7 @@
 [Email us](mailto:netherlands@owasp.org)  
 [Google Group](https://groups.google.com/a/owasp.org/forum/#!forum/netherlands-chapter)  
 [Meetup.com](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/)  
-[LinkedIn](https://www.linkedin.com/groups/1987229/)  
+[LinkedIn](https://nl.linkedin.com/company/owasp-netherlands)  
 [Twitter](https://twitter.com/owasp_nl)  
 [YouTube](https://www.youtube.com/c/OWASPNetherlands)  
 
