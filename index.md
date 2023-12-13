@@ -17,7 +17,7 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 
 ## Next Event - Register Now
 Date: January 18 2024  
-Location: VU Amsterdam  
+Location: Trend Micro Amsterdam  
 Highlights: Red teaming  
 
 Attendance is free and open to all members of the public.
