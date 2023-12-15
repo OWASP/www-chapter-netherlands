@@ -1,12 +1,12 @@
 date          : 2024-01-18
-last-modified : 2023-11-23
+last-modified : 2023-12-15
 page          : upcomming
 information   : 
 livestreamUrl :
 location      : Trend Micro Amsterdam
-address       : 
+address       : Herikerbergweg 92, 1101 CM Amsterdam
 locationUrl   : 
-meetupUrl     : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/297919320/
 items         :
   - type      : 
     title     : Reception of attendees
@@ -21,14 +21,16 @@ items         :
     start     : "19:00"
     end       : "19:15"
   - type      : talk
-    title           : TBA
+    title           : Challenges in modern Red Teaming, external vs internal point of view 
     start           : "19:15"
     end             : "20:00"
-    abstract        : 
+    abstract        : To be added shortly.
     speakers        :
-    - name            : Ahmed Eldemrdash
+    - name            : Marcin Wolak
       picture         : 
-      bio             : 
+      bio             : >-
+                        Marcin is a well renowned ethical hacker / red teamer, blogger & 
+                        researcher with over twenty years experience in IT and cybersecurity.
     presentationUrl :
     youtubeUrl      : 
   - type            : 
@@ -36,13 +38,22 @@ items         :
     start           : "20.00"
     end             : "20:15"
   - type            : talk
-    title           : TBA
+    title           : Red Teaming on MacOS
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
+    abstract        : To be added shortly.
     speakers        :
-    - name            : Marcin Wolak
+    - name            : Ahmed Sherif
       picture         : 
-      bio             : 
+      bio             : >-
+                        A professional offensive security expert with 7 years of experience 
+                        in pentesting / red teaming. Ahmed is working at ING global CISO.
+    - name            : Ivan Kozlov
+      picture         :
+      bio             : >-
+                        Red teamer at Global CISO of ING who hated macOS so hard that decided 
+                        to dedicate his spare time in finding vulnerabilities and new red 
+                        teaming tricks on Apple workstations. Reverse engineered and 
+                        decrypted state actor malware using MS Paint.
     presentationUrl :
     youtubeUrl      : 
