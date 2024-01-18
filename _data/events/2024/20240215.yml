@@ -1,0 +1,34 @@
+date          : 2024-02-15
+information   : This is an online meeting and will be streamed on YouTube. The meeting will start at 19&#58;00.
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     :
+items         :
+  - type            : talk
+    title           : OWASP Dependency-Track
+    abstract        : >-
+                      Since its inception over a decade ago, OWASP Dependency-Track has pioneered many 
+                      concepts in the realm of software supply chain security, and software bill of 
+                      materials (SBOM).<br />
+                      <br />
+                      With increasingly more governments, regulators and organizations asking for SBOMs, 
+                      the project is more relevant than ever. On the other hand, a non-negligible 
+                      portion of folks is still puzzled as to what to even do with SBOMs once they have 
+                      them.<br />
+                      <br />
+                      In this talk, we'll explore what Dependency-Track is, how it can help organizations 
+                      in identifying and reducing risk in their software supply chain, and give an 
+                      outlook into what's next!
+    speakers        :
+    - name            : Niklas Düster
+      picture         : Niklas.jpg
+      bio             : >-
+                        After years as Security Engineer for a large European payment service provider, 
+                        Niklas currently works as Cloud Native Engineer for ControlPlane. He is passionate 
+                        about AppSec, DevSecOps and Open Source. He co-leads the OWASP Dependency-Track 
+                        project and is a contributor to the OWASP CycloneDX Bill of Materials standard, 
+                        for which he maintains the official Go tooling.
+    presentationUrl : 
+    youtubeUrl      : 
