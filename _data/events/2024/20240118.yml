@@ -24,7 +24,7 @@ items         :
     title           : Challenges in modern Red Teaming, external vs internal point of view 
     start           : "19:15"
     end             : "20:00"
-    abstract        : To be added shortly.
+    abstract        : The presentation will try to demonstrate limitations of external red teaming and show how internal red teaming could possibly fill in identified gaps.
     speakers        :
     - name            : Marcin Wolak
       picture         : 
@@ -41,7 +41,7 @@ items         :
     title           : Red Teaming on MacOS
     start           : "20:15"
     end             : "21:00"
-    abstract        : To be added shortly.
+    abstract        : The focus of the Red Teaming has predominantly been on Windows environments, reflecting its widespread use in corporate settings. However, the recent shift in corporate preferences towards MacOS necessitates a reevaluation and development of Red Teaming strategies specific to this. Our presentation delves into the challenges in MacOS during the red teaming excercises.
     speakers        :
     - name            : Ahmed Sherif
       picture         : 
