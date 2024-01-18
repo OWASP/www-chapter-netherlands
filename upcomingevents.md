@@ -18,8 +18,8 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% for currentEvent in events reversed %}
 
-{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-{% capture eventdate %}{{currentEvent[1].date | date: '%s'}}{% endcapture %}
+{% capture nowunix %}{{'now' | date: '%Y%m%d'}}{% endcapture %}
+{% capture eventdate %}{{currentEvent[1].date | date: '%Y%m%d'}}{% endcapture %}
 
 {% if eventdate >= nowunix %} 
 
