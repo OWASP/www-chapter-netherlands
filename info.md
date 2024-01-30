@@ -10,7 +10,6 @@
 * Cooper
 * Edwin Gozeling
 * Irfaan Santoe
-* Jaiya "JP" Preston
 * Joren Poll
 * Martin Knobloch
 * Priyam Awasthy
