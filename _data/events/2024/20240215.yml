@@ -7,6 +7,47 @@ locationUrl   :
 meetupUrl     :
 items         :
   - type            : talk
+    title           : OWASP ModSecurity&#58; A Few Plot Twists and What Feels Like a Happy End
+    abstract        : >-
+                      ModSecurity is an open-source, cross-platform web application firewall (WAF) 
+                      engine. Originally written by Ivan Ristić, it was acquired by Trustwave and 
+                      then developed for over 10 years by Trustwave's SpiderLabs.<br />
+                      <br />
+                      ModSecurity exists as a module for the Apache HTTP Server, Nginx, and IIS 
+                      (v2) and it has also been released as standalone daemon for NGINX (v3), 
+                      accessible via an API and a webserver specific connector module. It is able 
+                      to inspect HTTP requests and HTTP responses and it configured via rules in a 
+                      rather cumbersome config language called "SecLang". OWASP CRS is the dominant 
+                      rules project used by most ModSecurity users.<br />
+                      <br />
+                      In 2021, Trustwave announced the end of support and the plan to hand over 
+                      ModSecurity into the hands of the community by Summer 2024. OWASP tried to 
+                      convince Trustwave to hand it over to the foundation several times, but only 
+                      succeeded in November 2023. A plan was thus drawn and a new project was 
+                      prepared from December 2023. The main repository was transferred on January 25 
+                      and OWASP ModSecurity was declared a "production level" OWASP project by the 
+                      OWASP project committee.<br />
+                      <br />
+                      The new project operates with a preliminary leader team, the first release is 
+                      already out and the community is growing, all in line with the 3-6 month 
+                      project plan drawn up in December 2023.<br />
+                      <br />
+                      This talk gives an overview of this dynamics at play, how OWASP operates on 
+                      projects like this and the perspectives are for ModSecurity and OWASP as a 
+                      whole.
+    speakers        :
+    - name            : Christian Folini
+      picture         : 
+      bio             : >-
+                        Dr. Christian Folini is a Swiss security engineer and open source enthusiast. 
+                        He brings 15 years of experience with ModSecurity configuration in high 
+                        security environments, DDoS defense and threat modeling. Christian Folini is 
+                        the author of the 2nd edition of the ModSecurity Handbook and the best known 
+                        teacher on the subject. He co-leads the OWASP ModSecurity Core Rule Set 
+                        project and serves as the program chair of the “Swiss Cyber Storm” conference.
+    presentationUrl : 
+    youtubeUrl      : 
+  - type            : talk
     title           : OWASP Dependency-Track
     abstract        : >-
                       Since its inception over a decade ago, OWASP Dependency-Track has pioneered many 
