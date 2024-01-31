@@ -1,3 +1,13 @@
 ### OWASP BeNeLux Days 2023 sponsors:
 
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.armorcode.com/"><img src="assets/images/sponsors/benelux-2023/armorcode_black.svg" alt="ArmorCode" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.cegeka.com/"><img src="assets/images/sponsors/benelux-2023/cegeka.svg" alt="Cegeka" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.contrastsecurity.com/"><img src="assets/images/sponsors/benelux-2023/contrast-security.png" alt="Contrast Security" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.secureflag.com/"><img src="assets/images/sponsors/benelux-2023/secureflag.svg" alt="SecureFlag" style="width: 300px; display: block;"></a></div>
+<div style="width: 150px; display: inline-block; margin-right: 10px;"><a href="https://snyk.io/"><img src="assets/images/sponsors/benelux-2023/snyk.jpg" alt="Snyk" style="width: 150px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.synopsys.com/"><img src="assets/images/sponsors/benelux-2023/synopsys.jpg" alt="Synopsys" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.veracode.com/"><img src="assets/images/sponsors/benelux-2023/veracode.png" alt="Veracode" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.zimperium.com/"><img src="assets/images/sponsors/benelux-2023/zimperium.png" alt="Zimperium" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.microfocus.com/en-us/cyberres/application-security"><img src="assets/images/sponsors/benelux-2023/fortify-opentext.png" alt="Fortify" style="width: 300px; display: block;"></a></div>
+<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://www.resillion.com/"><img src="assets/images/sponsors/benelux-2023/resillion.jpg" alt="Resillion" style="width: 300px; display: block;"></a></div>
 <div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://offensive360.com/"><img src="assets/images/sponsors/benelux-2023/offensive-360-logo.svg" alt="Offensive 360" style="width: 300px; display: block;"></a></div>
