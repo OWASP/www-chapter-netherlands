@@ -6,8 +6,14 @@ address       :
 locationUrl   :
 meetupUrl     :
 items         :
+  - type      :
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:10"
   - type            : talk
     title           : OWASP ModSecurity&#58; A Few Plot Twists and What Feels Like a Happy End
+    start           : "19:10"
+    end             : "19:55"
     abstract        : >-
                       ModSecurity is an open-source, cross-platform web application firewall (WAF) 
                       engine. Originally written by Ivan Ristić, it was acquired by Trustwave and 
@@ -47,8 +53,14 @@ items         :
                         project and serves as the program chair of the “Swiss Cyber Storm” conference.
     presentationUrl : 
     youtubeUrl      : 
+  - type      :
+    title     : Questions and Break
+    start     : "19:55"
+    end       : "20:05"
   - type            : talk
     title           : OWASP Dependency-Track
+    start           : "20:05"
+    end             : "20:50"
     abstract        : >-
                       Since its inception over a decade ago, OWASP Dependency-Track has pioneered many 
                       concepts in the realm of software supply chain security, and software bill of 
