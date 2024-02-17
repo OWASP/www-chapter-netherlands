@@ -16,9 +16,9 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, inheriting all the values that OWASP stands for. The chapter sets-out to build great security communities in the Netherlands by bringing security knowledge from enterprises to the wider security community and vice versa. We inspire security professionals on all levels to share knowledge, network, form alliances and to contribute to security open-sourcing. We bring awareness to enterprises of existing OWASP Security Tooling, Guidance and Good Practices in the field of Information Security, especially Application Security, DevSecOps and Cloud Security.
 
 ## Next Event - Register Now
-Date: February 15 2024  
-Location: Online  
-Highlights: OWASP ModSecurity and OWASP Dependency-Track  
+Date: March 21 2024  
+Location: Nieuwegein 
+Highlights: API and Application Security  
 
 Attendance is free and open to all members of the public.
 

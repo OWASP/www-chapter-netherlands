@@ -1,0 +1,42 @@
+date          : 2024-03-21
+last-modified : 2023-02-17
+page          : upcomming
+information   : 
+livestreamUrl :
+location      : Ordina
+address       : Ringwade 1, 3439 LM Nieuwegein
+locationUrl   : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/299257952/
+items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : TBA
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : 
+    speakers        :
+    presentationUrl :
+    youtubeUrl      : 
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : TBA
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : 
+    speakers        :
+    presentationUrl :
+    youtubeUrl      : 
