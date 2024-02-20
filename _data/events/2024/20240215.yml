@@ -52,7 +52,7 @@ items         :
                         teacher on the subject. He co-leads the OWASP ModSecurity Core Rule Set 
                         project and serves as the program chair of the “Swiss Cyber Storm” conference.
     presentationUrl : 
-    youtubeUrl      : 
+    youtubeUrl      : https://www.youtube.com/watch?v=Os2wVzp2oNA&t=0s
   - type      :
     title     : Questions and Break
     start     : "19:55"
@@ -84,4 +84,4 @@ items         :
                         project and is a contributor to the OWASP CycloneDX Bill of Materials standard, 
                         for which he maintains the official Go tooling.
     presentationUrl : 
-    youtubeUrl      : 
+    youtubeUrl      : https://www.youtube.com/watch?v=Os2wVzp2oNA&t=4173s
