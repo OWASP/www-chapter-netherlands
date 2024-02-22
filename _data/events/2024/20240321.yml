@@ -1,5 +1,5 @@
 date          : 2024-03-21
-last-modified : 2023-02-17
+last-modified : 2023-02-22
 page          : upcomming
 information   : 
 livestreamUrl :
@@ -21,11 +21,36 @@ items         :
     start     : "19:00"
     end       : "19:15"
   - type      : talk
-    title           : TBA
+    title           : How to get Dev(Ops) teams to start adopting DevSecOps
     start           : "19:15"
     end             : "20:00"
-    abstract        : 
+    abstract        : >-
+                      In many development environments, security has long been seen as an 
+                      afterthought or even a right-out hindrance. And forcing security onto 
+                      developers often has an adverse effect. In this talk we will share the 
+                      journey we have been making at the Dutch Chamber of Commerce (KVK) to 
+                      get Development teams to adopt DevSecOps in a way that works best for 
+                      them. Topics that will be discussed include Secure Development training, 
+                      Security Champions, Threat Modeling and using the right tooling. 
     speakers        :
+    - name            : Sebastiaan Rijnbout
+      picture         : sebastiaan-rijnbout.jpg
+      bio             : >-
+                        Sebastiaan Rijnbout has a background as .NET developer and has worked 
+                        in that field for over 12 years, but since 2017 he has started focusing 
+                        on AppSec and Dev(Sec)Ops.<br />
+                        <br />
+                        When getting teams and organisations to adopt DevSecOps, Sebastiaan will 
+                        look at all aspects of DevSecOps (People, Process and Technology) like 
+                        setting up developer training programs and security champion programs, 
+                        rolling out company-wide Security tooling and improving working processes. 
+                        But always keeping a focus on making things easy and efficient for 
+                        developers.<br />
+                        <br />
+                        In his current role at the Dutch Chamber of Commerce (KVK) Sebastiaan 
+                        acts as Product Owner for 4 Dev(Sec)Ops support teams. These teams are 
+                        responsible for enabling all development teams at KVK to deliver secure 
+                        and high-quality software as efficiently as possible. 
     presentationUrl :
     youtubeUrl      : 
   - type            : 
