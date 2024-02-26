@@ -58,10 +58,35 @@ items         :
     start           : "20.00"
     end             : "20:15"
   - type            : talk
-    title           : TBA
+    title           : Cracking the API&#58; Challenges in IoT and Modern Applications
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
+    abstract        : >-
+                      Securing API's is about more than just an endpoint, it's about the data 
+                      shared, customer privacy, and the access we give to unauthorised parties. 
+                      Now as we are connecting more devices than ever, to more third parties 
+                      than ever, securing APIs needs an offensive mindset from the design phase.
+                      <br />
+                      <br />
+                      In this talk I'll go over some of the techniques I use when testing, common 
+                      issues I've found and their impact, and the state of IoT and modern 
+                      web applications. <br />
+                      <br />
+                      Security issues can arise from misconceptions early in the software process, 
+                      so I'll also discuss how we might mitigate some of these with thoughtful 
+                      design, architecture and development.
     speakers        :
+    - name            : Yianna Paris
+      picture         : yianna-paris-x0dium.jpeg
+      bio             : >-
+                        From user experience to software engineering, Yianna has a diverse 
+                        background with one thing in common - exploring the intersection between 
+                        human interaction and technology. Currently she is an Offensive and 
+                        Application Security Engineer at Xebia. Working in tech teams and 
+                        researching new offensive techniques remains a daily drive for her. She's 
+                        passionate about giving back to the community, having presented at DEFCON, 
+                        hosted security meetups, delivered workshops, contributed to 
+                        OWASP Low Code / No Code, as well as building and contributing to open 
+                        source tooling.
     presentationUrl :
     youtubeUrl      : 
