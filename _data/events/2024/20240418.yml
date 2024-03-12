@@ -1,0 +1,70 @@
+date          : 2024-04-18
+information   : This is an online meeting and will be streamed on YouTube. The meeting will start at 19&#58;00.
+livestreamUrl :
+location      :
+address       :
+locationUrl   :
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/299755205/
+items         :
+  - type      :
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:10"
+  - type            : talk
+    title           : API Security&#58; OWASP API Top 10 Unlocked
+    start           : "19:10"
+    end             : "19:55"
+    abstract        : >-
+                      APIs play a central role in today's economy, powering the exchange of data and 
+                      services between applications and businesses. However, with great power comes 
+                      great responsibility, and API security is more critical than ever.<br />
+                      <br />
+                      In this session, we will discuss the OWASP API Security Top 10, a comprehensive 
+                      guide to the most critical API security risks which was first released in 2019 
+                      and updated in 2023. We will then dive into real-world examples of API security 
+                      issues found on well-known solutions powered by APIs, providing a detailed 
+                      analysis of the vulnerabilities and the impact they could have had on the 
+                      affected organizations.<br />
+                      <br />
+                      By the end of this session, you will have a better understanding of the 
+                      importance of API security and the steps you can take to protect your 
+                      organization's APIs from attacks.
+    speakers        :
+    - name            : Erez Yalon
+      picture         : erez-yalon.jpg
+      bio             : >-
+                        Erez Yalon is the VP of Security Research at Checkmarx. Yalon oversees 
+                        Checkmarx’s research team comprising analysts, pen testers, security 
+                        engineers, and bug bounty hunters. He brings vast experience to his position 
+                        and his efforts to empower today’s developers and organizations to deliver 
+                        more secure applications. Yalon is the Founder of the DEF CON AppSec Village 
+                        and co-leads the OWASP API Security Project. Over the years, Yalon has been 
+                        invited to speak at prominent events, including RSAC, Black Hat, DEF CON, 
+                        and OWASP’s global conferences, and featured in news outlets such as Fortune, 
+                        Forbes, Wired, TechCrunch, and Dark Reading.
+    - name            : Paulo Silva
+      picture         : paulo-silva.jpg
+      bio             : >-
+                        Paulo Silva is a security practitioner with a solid background in software 
+                        development, who has spent the last decade focused on identifying critical 
+                        vulnerabilities and breaking software. Paulo is a long-time OWASP volunteer 
+                        and co-leader of the OWASP API Security Project, where he advocates for secure 
+                        API practices and contributes significantly to mitigating security risks in 
+                        the API landscape.
+    presentationUrl : 
+    youtubeUrl      :
+  - type      :
+    title     : Questions and Break
+    start     : "19:55"
+    end       : "20:05"
+  - type            : talk
+    title           : TBD
+    start           : "20:05"
+    end             : "20:50"
+    abstract        : >-
+    speakers        :
+    - name            : TBD
+      picture         : 
+      bio             : >-
+    presentationUrl : 
+    youtubeUrl      : 
