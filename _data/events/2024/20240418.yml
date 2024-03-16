@@ -58,13 +58,23 @@ items         :
     start     : "19:55"
     end       : "20:05"
   - type            : talk
-    title           : TBD
+    title           : How (not) to use secrets with OWASP WrongSecrets
     start           : "20:05"
     end             : "20:50"
     abstract        : >-
+                      If you want to bring an app to production, you need to know where to put your 
+                      secrets and how to access them safely. In this session, we'll go into how to 
+                      *not* use secrets with a purposefully vulnerable application. We hope you'll 
+                      take this knowledge and not make the same mistakes in your own app. Of course, 
+                      you'll also learn a thing or two on how to do secrets management properly. 
+                      Alternatively, you can use this app to teach others!
     speakers        :
-    - name            : TBD
-      picture         : 
+    - name            : Ben de Haan
+      picture         : ben-de-haan.jpg
       bio             : >-
+                        I am a Freelance Security Consultant and engineer, and co-project lead of 
+                        OWASP WrongSecrets. My specialties are security in application 
+                        development/SRE and cloud. Outside of regular work, I like to spend time 
+                        creating cool (and secure) apps.
     presentationUrl : 
     youtubeUrl      : 
