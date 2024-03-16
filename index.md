@@ -17,7 +17,7 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 
 ## Next Event - Register Now
 Date: March 21 2024  
-Location: Nieuwegein 
+Location: Nieuwegein  
 Highlights: API and Application Security  
 
 Attendance is free and open to all members of the public.
