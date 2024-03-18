@@ -56,11 +56,18 @@ items         :
   - type      :
     title     : Questions and Break
     start     : "19:55"
-    end       : "20:05"
+    end       : "20:00"
+  - type            : talk
+    title           : OWASP Security Champions Guide - Updates
+    start           : "20:00"
+    end             : "20:15"
+    abstract        : >-
+                      OWASP Security Champions Guide project team will provide updates on the 
+                      release of the next OWASP Security Champions Guide!
   - type            : talk
     title           : How (not) to use secrets with OWASP WrongSecrets
-    start           : "20:05"
-    end             : "20:50"
+    start           : "20:15"
+    end             : "21:00"
     abstract        : >-
                       If you want to bring an app to production, you need to know where to put your 
                       secrets and how to access them safely. In this session, we'll go into how to 
