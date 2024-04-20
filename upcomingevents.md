@@ -16,7 +16,7 @@ meetup-group: OWASP-Chapter-Netherlands-Meetup
 
 {% assign events = year_hash[1] %}
 
-{% for currentEvent in events reversed %}
+{% for currentEvent in events %}
 
 {% capture nowunix %}{{'now' | date: '%Y%m%d'}}{% endcapture %}
 {% capture eventdate %}{{currentEvent[1].date | date: '%Y%m%d'}}{% endcapture %}
