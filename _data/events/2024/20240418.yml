@@ -52,18 +52,22 @@ items         :
                         API practices and contributes significantly to mitigating security risks in 
                         the API landscape.
     presentationUrl : 
-    youtubeUrl      :
+    youtubeUrl      : https://www.youtube.com/watch?v=unQxiUuhujg&t=2745s
   - type      :
     title     : Questions and Break
     start     : "19:55"
     end       : "20:00"
   - type            : talk
-    title           : OWASP Security Champions Guide - Updates
+    title           : OWASP Security Champions Guide
     start           : "20:00"
     end             : "20:15"
     abstract        : >-
                       OWASP Security Champions Guide project team will provide updates on the 
                       release of the next OWASP Security Champions Guide!
+    speakers        :
+    - name          : Cheyenne Seur
+    presentationUrl :
+    youtubeUrl      : https://www.youtube.com/watch?v=unQxiUuhujg&t=5963s
   - type            : talk
     title           : How (not) to use secrets with OWASP WrongSecrets
     start           : "20:15"
@@ -84,4 +88,4 @@ items         :
                         development/SRE and cloud. Outside of regular work, I like to spend time 
                         creating cool (and secure) apps.
     presentationUrl : 
-    youtubeUrl      : 
+    youtubeUrl      : https://www.youtube.com/watch?v=unQxiUuhujg&t=6702s
