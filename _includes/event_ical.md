@@ -2,8 +2,10 @@ BEGIN:VEVENT
 DTSTAMP:{{ event.date | date: "%Y0101T010000Z" }}
 UID:{{ event.date | date: "%Y%m%d" }}-netherlands@owasp.org
 ORGANIZER:mailto:netherlands@owasp.org
-{%- if event.last-modified %}
+{%- if event.last-modifiedNOT %}
 LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
+{%- else %}
+LAST-MODIFIED:{{ 'now' | date: "%Y%m%dT%H%M00Z" }}
 {%- endif %}
 {% if event.calendarStart and event.calendarStart != "" -%}
   DTSTART;TZID=Europe/Amsterdam:{{ event.calendarStart }}
