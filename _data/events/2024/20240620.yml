@@ -20,7 +20,7 @@ items         :
     title     : Welcome and OWASP updates
     start     : "19:00"
     end       : "19:15"
-  - type      : talk
+  - type      : 
     title           : TBD
     start           : "19:15"
     end             : "20:00"
@@ -32,7 +32,7 @@ items         :
     title           : Break with drinks
     start           : "20.00"
     end             : "20:15"
-  - type            : talk
+  - type            : 
     title           : TBD
     start           : "20:15"
     end             : "21:00"
