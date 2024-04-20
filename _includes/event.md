@@ -1,8 +1,8 @@
-{% if event.dateString and event.dateString != '' and event.tileString and event.tileString != '' %}
+{% if event.dateString and event.dateString != '' and event.titleString and event.titleString != '' %}
 <h3 id="{{ event.dateString | replace: " ", "-" | downcase }}">{{ event.titleString }}</h3>
 {% elsif event.dateString and event.dateString != '' %}
 <h3 id="{{ event.dateString | replace: " ", "-" | downcase }}">{{ event.dateString }}</h3>
-{% elsif event.tileString and event.tileString != '' %}
+{% elsif event.titleString and event.titleString != '' %}
 <h3 id="{{ event.date | date: "%B %-d %Y" | replace: " ", "-" | downcase }}">{{ event.titleString }}</h3>
 {% else %}
 ### {{ event.date | date: "%B %-d %Y"}}
