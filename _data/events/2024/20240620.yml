@@ -1,0 +1,42 @@
+date          : 2024-06-20
+last-modified : 2023-04-20
+page          : upcomming
+information   : 
+livestreamUrl :
+location      : Amsterdam
+address       : 
+locationUrl   : 
+meetupUrl     : 
+items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type      : talk
+    title           : TBD
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : 
+    speakers        :
+    presentationUrl : 
+    youtubeUrl      : 
+  - type            : 
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : TBD
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : 
+    speakers        :
+    presentationUrl : 
+    youtubeUrl      : 
