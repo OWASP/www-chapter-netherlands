@@ -1,8 +1,10 @@
 date          : 2024-05-23
 last-modified : 2023-04-19
-page          : upcomming
 dateString    : May 23 2024
 titleString   : May 23 2024 - Cyber Booked
+calendarTitle : Cyber Booked
+calendarStart : 20240523T170000
+calendarEnd   : 20240523T220000
 information   : >-
                 The local Dutch Chapters of [OWASP](https://owasp.nl), [ISACA](https://isaca.nl) and 
                 [ISC2](https://community.isc2.org/t5/Netherlands-Chapter/gh-p/NetherlandsChapter) 

@@ -14,7 +14,7 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
   {%- else -%}
     1800
   {%- endif -%}
-  00Z
+  00
 {%- endif %}
 {% if event.calendarEnd and event.calendarEnd != "" -%}
   DTEND;TZID=Europe/Amsterdam:{{ event.calendarEnd }}
@@ -25,7 +25,7 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
   {%- else -%}
     1800
   {%- endif -%}
-  00Z
+  00
 {%- endif %}
 {% if event.calendarTitle and event.calendarTitle != "" -%}
   SUMMARY:{{ event.calendarTitle }}
@@ -34,8 +34,12 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
 {%- endif %}
 {% assign descriptionString = "DESCRIPTION:" %}
 {%- if event.information and event.information != '' %}
-  {%- assign descriptionString = descriptionString | append: event.information | append: "\n  
+  {%- assign infoLines = event.information | split: "
+" %}
+  {%- for infoLine in infoLines -%}
+    {%- assign descriptionString = descriptionString | append: infoLine | append: "\n  
  " %}
+  {%- endfor -%}
 {%- endif %}
 {%- for item in event.items %}
   {%- assign speakerString = "" %}
@@ -56,8 +60,8 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
 {%- endfor %}
 {%- if event.extraInfo and event.extraInfo != '' %}
   {%- assign descriptionString = descriptionString | append: "\n  
-" | append: event.extraInfo | append: "\n  
-" %}
+ " | append: event.extraInfo | append: "\n  
+ " %}
 {%- endif %}
 {%- assign dateForLink = event.date | date: "%B %-d %Y" | replace: " ", "-" | downcase %}
 {%- if event.dateString and event.dateString != '' %}
@@ -65,7 +69,7 @@ LAST-MODIFIED:{{ event.last-modified | date: "%Y%m%dT010000Z" }}
 {%- endif %}
 {%- assign descriptionString = descriptionString | append: "\n  
  " | append: "For more information: https://www.owasp.org/www-chapter-netherlands/allevents#" | append: dateForLink | append: "." %}
-{%- assign descriptionString = descriptionString | strip_html | replace: "&#58;",":" %}
+{%- assign descriptionString = descriptionString | strip_html | replace: "&#58;",":" | replace: " ["," " | replace: "["," " | replace: "]"," " %}
 {%- assign descriptionLines = descriptionString | split: "\n  
  " %}
 {%- assign lineLength =  71 %}
