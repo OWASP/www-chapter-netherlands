@@ -1,12 +1,12 @@
 date          : 2024-06-20
-last-modified : 2023-04-20
+last-modified : 2023-05-06
 page          : upcomming
 information   : 
 livestreamUrl :
-location      : Amsterdam
-address       : 
+location      : VU, Amsterdam
+address       : De Boelelaan 1105
 locationUrl   : 
-meetupUrl     : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/300855942
 items         :
   - type      : 
     title     : Reception of attendees
@@ -20,23 +20,80 @@ items         :
     title     : Welcome and OWASP updates
     start     : "19:00"
     end       : "19:15"
-  - type      : 
-    title           : TBD
+  - type            : talk
+    title           : Ship Happens&#58; The Stormy Seas of Supply Chain Security
     start           : "19:15"
     end             : "20:00"
-    abstract        : 
+    abstract        : >-
+                      “The more I know about how software is made, the less I want to know” - Me<br />
+                      <br />
+                      As a software developer with over a decade of experience and countless 
+                      interactions with application security teams, I've discovered the unsettling 
+                      complexities of modern software production. Despite what I thought I knew, the 
+                      reality was far more intricate.<br />
+                      <br />
+                      Modern software development is a sprawling network of open-source dependencies, 
+                      sophisticated build tools, plugins, pipelines, and runtimes. These components 
+                      are fundamental in securing critical sectors of our daily lives—finance, 
+                      healthcare, infrastructure, transportation, and social interactions. However, 
+                      this supply chain is under relentless attack and many of the potential threats 
+                      are poorly understood.<br />
+                      <br />
+                      This talk will delve into specific vulnerabilities, such as dependency poisoning 
+                      and pipeline compromises, that exemplify the challenges we face. We'll explore 
+                      strategies to mitigate these threats and discuss practical takeaways that 
+                      attendees can immediately implement in their software development practices. 
+                      Expect to leave with a deeper understanding of supply chain security and with 
+                      ideas to fortify your software factory against these escalating threats.
     speakers        :
+    - name          : David Archer
+      picture       : david-archer.jpg
+      bio           : >-
+                      David Archer is a Solution Architect at Endor Labs. He began his career as a 
+                      software developer and witnessed significant shifts in how software is built 
+                      over the last two decades. After spells as a development lead, product director 
+                      and pre-sales consultancy roles David consistently saw a concerning trend&#58; 
+                      security often took a backseat amidst the hustle and bustle of development 
+                      priorities.<br />
+                      <br />
+                      Seeking to help address this balance David took an opportunity in 2018 to work 
+                      full-time in the field of application security with a particular focus on 
+                      technologies that promise to enhance security without impeding development 
+                      speed. Through his extensive experience with secure coding practises and 
+                      hands-on experience with the myriad of code analysis tools like IAST, SAST, 
+                      DAST, RASP and SCA, he gained valuable insights into their relevance and 
+                      effectiveness in a modern software factory.
     presentationUrl : 
     youtubeUrl      : 
-  - type            : 
+  - type            :
     title           : Break with drinks
     start           : "20.00"
     end             : "20:15"
-  - type            : 
-    title           : TBD
+  - type            : talk
+    title           : Technical leverage&#58; dependencies are a mixed blessing
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
-    speakers        :
+    abstract        : >-
+                      Modern applications are build upon a large supply chain of (possibly open 
+                      source) libraries and tools. In finance, leverage is the ratio of debts 
+                      (other people's money) vs equity (your money) and the Lehman Brothers have 
+                      made that concept famous. For software, technical leverage is the ratio between 
+                      other people's code and your own code. I will argue with some examples from the 
+                      Maven, Python and the NPM ecosystems that this is both a risk and an 
+                      opportunity. The Lehmans Brothers were 30 to 1, what about the Software 
+                      Sisters?
+    speakers        : 
+    - name          : Fabio Massacci
+      picture       : fabio-massacci.jpg
+      bio           : >-
+                      Fabio Massacci is a co-author of CVSS v4. Among other things, he is also a 
+                      professor at Vrije Universiteit. He has been a speaker at hackers’ venues 
+                      (BlackHat USA, Asia) scientific security conferences (IEEE S&P, CCS), software 
+                      engineering (ICSE,MSR) and risk analysis (SRA). He coordinates the EU project 
+                      Sec4AI4Sec (name tells it all) and an NWO project on using AI for security 
+                      threat intelligence. While almost all professors are sellers of tech (through 
+                      their papers or their spin-offs) he was also for 7 years deputy for ICT 
+                      procurements and services supervising a 70+ workforce and few millions Euro in 
+                      outsourcing contracts. Being a buyer of tech makes a difference in perspective.
     presentationUrl : 
     youtubeUrl      : 
