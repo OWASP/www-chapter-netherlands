@@ -11,7 +11,7 @@
 * Amit Sharma
 * Cooper
 * Edwin Gozeling
-* Irfaan Santoe
+* [Irfaan Santoe](https://www.linkedin.com/in/irfaansantoe/)
 * Joren Poll
 * Martin Knobloch
 * Priyam Awasthy
