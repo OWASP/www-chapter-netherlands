@@ -1,5 +1,5 @@
 date          : 2024-10-17
-last-modified : 2024-08-21
+last-modified : 2024-09-13
 page          : upcomming
 information   : 
 livestreamUrl :
@@ -21,11 +21,35 @@ items         :
     start     : "19:00"
     end       : "19:15"
   - type            : talk
-    title           : TBA
+    title           : "AI Security: Safeguarding Software from Code to Architecture"
     start           : "19:15"
     end             : "20:00"
-    abstract        : 
+    abstract        : >-
+                      AI is rapidly transforming software development, offering 
+                      unprecedented capabilities but also introducing new security 
+                      challenges. As organizations rush to adopt AI technologies, they 
+                      often overlook critical security implications, potentially exposing 
+                      themselves to novel threats and vulnerabilities.<br />
+                      In this talk, we'll explore how to build secure AI-powered software, 
+                      covering both coding practices and system design. We'll dive into 
+                      specific scenarios where AI can introduce security risks and discuss 
+                      practical strategies to mitigate these issues in software development. 
+                      We'll also touch on privacy concerns when implementing AI solutions. 
+                      Through real-world examples, you'll gain actionable insights to 
+                      enhance the security of your AI projects, from individual algorithms 
+                      to complete systems.
     speakers        :
+    - name            : Feiyang Tang
+      picture         : feiyang-tang.jpg
+      bio             : >-
+                        Feiyang Tang is a Technical Software Consultant at Software 
+                        Improvement Group, specializing in code quality and security. He 
+                        holds a Ph.D. in Software Privacy from Norway and a Master's degree 
+                        in Artificial Intelligence. With a background spanning academia and 
+                        industry, Feiyang focuses on enhancing software development 
+                        practices through the responsible integration of AI technologies. 
+                        His work aims to bridge the gap between advanced AI capabilities 
+                        and robust, secure software engineering principles.
     presentationUrl : 
     youtubeUrl      : 
   - type            :
