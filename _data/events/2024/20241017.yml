@@ -1,5 +1,5 @@
 date          : 2024-10-17
-last-modified : 2024-09-13
+last-modified : 2024-09-18
 page          : upcomming
 information   : 
 livestreamUrl :
@@ -57,10 +57,45 @@ items         :
     start           : "20.00"
     end             : "20:15"
   - type            : talk
-    title           : TBA
+    title           : Securing GenAI Applications - a Point of View
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
+    abstract        : >-
+                      The POV discusses the importance of securing generative AI (GenAI) 
+                      and the challenges associated with it. GenAI empowers organizations 
+                      to unlock new opportunities, drive innovation, and deliver value in 
+                      an increasingly digital and dynamic world. However, securing GenAI 
+                      introduces new challenges that must be addressed, including 
+                      adversarial risks across the AI pipeline, data privacy and security 
+                      concerns, and the need for a unified approach to security. The POV 
+                      highlights the importance of understanding the risks associated with 
+                      input, training, and output data, as well as the need for data 
+                      provenance, transparency, and accountability. Further to this, it 
+                      looks into the risks posed by use of GenAI, the importance of 
+                      security in a GenAI strategy, and how we need to go about mitigating 
+                      risks in practice; factoring in the different GenAI consumption 
+                      models and the impact these will have on Security Management.<br />
+                      The POV concludes by highlighting the importance of understanding 
+                      GenAI's risks and challenges and taking a proactive approach to 
+                      securing it.
     speakers        : 
+    - name            : Burc Yildirim
+      picture         : burc-yildirim.jpg
+      bio             : >-
+                        Burç Yıldırım is a seasoned Cyber Risk Services professional with 
+                        over 20 years of experience in the security industry, specializing 
+                        in offensive security. He provides cyber strategy, resiliency, and 
+                        privacy consultancy to governmental institutions, finance, 
+                        telecommunication, and energy companies, aligning cybersecurity 
+                        solutions with business needs.<br />
+                        Combining deep technical expertise with management experience, 
+                        Burç has a unique ability to fully understand both the technical 
+                        and business challenges organizations face. This skill set enables 
+                        him to manage complex teams and projects effectively. Throughout 
+                        his career, he has built and led high-performing teams at 
+                        Deloitte Turkey, Deloitte Netherlands, and IBM.<br />
+                        With a strong background in both offensive and defensive security, 
+                        Burç is dedicated to helping organizations enhance their 
+                        cybersecurity posture in an ever-evolving digital landscape.
     presentationUrl : 
     youtubeUrl      : 
