@@ -15,7 +15,7 @@ locationInfo  : >-
                 Also a 5 minute walk is the Zaandam station. 
                 (<a href="https://maps.app.goo.gl/3emKrp4ygx41SoN67">
                 https://maps.app.goo.gl/3emKrp4ygx41SoN67</a> )
-meetupUrl     : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/305251997
 items         :
   - type      : 
     title     : Reception of attendees
