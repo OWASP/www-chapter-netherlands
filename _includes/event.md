@@ -12,6 +12,7 @@
 {% if event.location and event.location != '' %}Location: {{ event.location }}  {% endif %}
 {% if event.address and event.address != '' %}Address: {{ event.address }}  {% endif %}
 {% if event.locationUrl and event.locationUrl != '' %}Link: [{{ event.locationUrl }}]({{ event.locationUrl }})  {% endif %}
+{% if event.locationInfo and event.locationInfo != '' %}{{ event.locationInfo }}{% endif %}
 {% if event.meetupUrl and event.meetupUrl != '' %}  
 Please register via: [{{ event.meetupUrl }}]({{ event.meetupUrl }})  {% endif %}
 

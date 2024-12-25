@@ -1,0 +1,102 @@
+date          : 2025-02-13
+last-modified : 2024-12-25
+page          : upcomming
+information   : 
+livestreamUrl :
+location      : Albert Heijn Head Office
+address       : Provincialeweg 11, 1506 MA Zaandam
+locationUrl   : 
+locationInfo  : >-
+                For parking, there’s a (paid) parking space less than 5 minutes away at 
+                the Q-Park Hermitage. 
+                (<a href="https://maps.app.goo.gl/XpJzhnj4BP6Kw9T88">
+                https://maps.app.goo.gl/XpJzhnj4BP6Kw9T88</a> )  
+                <br />  
+                Also a 5 minute walk is the Zaandam station. 
+                (<a href="https://maps.app.goo.gl/3emKrp4ygx41SoN67">
+                https://maps.app.goo.gl/3emKrp4ygx41SoN67</a> )
+meetupUrl     : 
+items         :
+  - type      : 
+    title     : Reception of attendees
+    start     : "18:00"
+    end       : "18:15"
+  - type      : 
+    title     : Pizza
+    start     : "18:15"
+    end       : "19:00"
+  - type      : 
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:15"
+  - type            : talk
+    title           : The AI Who Shagged Me!
+    start           : "19:15"
+    end             : "20:00"
+    abstract        : >-
+                      In today's ever-changing world of cybersecurity, bringing AI into red 
+                      teaming exercises is an exciting way to boost how we assess our 
+                      organizational defenses. This approach fits well with frameworks like 
+                      TIBER, which focus on creating realistic simulations of cyber threats. 
+                      It’s all about making our defenses stronger and more effective!
+
+                      AI algorithms effectively analyze large datasets to identify emerging 
+                      threats and tactics, aiding in realistic attack simulations. 
+
+                      AI-driven tools help replicate complex attacks, providing red teams 
+                      with thorough assessments of security measures. Using AI-generated 
+                      anomalies enhances detection capabilities and strengthens incident 
+                      response plans.
+
+                      However, the integration of AI into red teaming is not without 
+                      challenges. This discussion aims to provide a nuanced overview of the 
+                      application of AI in red teaming exercises, examining its potential 
+                      benefits and limitations within established frameworks like TIBER. By 
+                      critically evaluating this integration, we can better understand how 
+                      to harness AI's capabilities to strengthen cybersecurity offense and 
+                      defense.
+    speakers        :
+    - name            : Ali Abdollahi
+      picture         : ali-abdollahi.jpg
+      bio             : >-
+                        Ali is a cybersecurity researcher with over 12 years of experience. 
+                        Currently, he is the application and offensive security manager at 
+                        Canon EMEA. He studied computer engineering, published articles, 
+                        and holds several professional certificates. Ali is a Microsoft MVP 
+                        and regular speaker or trainer at industry conferences and events.
+    presentationUrl : 
+    youtubeUrl      : 
+  - type            :
+    title           : Break with drinks
+    start           : "20.00"
+    end             : "20:15"
+  - type            : talk
+    title           : "Behind the Breach: Understanding and Preventing Web Vulnerabilities"
+    start           : "20:15"
+    end             : "21:00"
+    abstract        : >-
+                      "Behind the Breach: Understanding and Preventing Web Vulnerabilities 
+                      delves into the transformation of modern web applications and 
+                      architecture, showcasing how advancements in frameworks and browser 
+                      technologies have revolutionized security. Yet, even with these 
+                      innovations, attackers persist in uncovering and exploiting 
+                      vulnerabilities. Drawing from real-world case studies across 
+                      industries—from agile startups to global enterprises—this presentation 
+                      not only demonstrates how a deeper understanding of security can 
+                      thwart these threats, but also highlights how effectively conveying 
+                      the potential impact of vulnerabilities is key to prioritizing 
+                      security efforts."
+    speakers        : 
+    - name            : Mitchel Koster
+      picture         : mitchel-koster.png
+      bio             : >-
+                        Mitchel Koster is the Chief Security Researcher at Breachlock, 
+                        where he leads the development of new security products and conducts 
+                        research and engagements for high-profile clients. His work includes 
+                        Red and Purple Team exercises and addressing custom security 
+                        requirements across diverse sectors, including Aviation and 
+                        Healthcare. With a background in computer science, embedded systems, 
+                        and programming, Mitchel bridges the gap between modern software 
+                        development practices and robust security measures.
+    presentationUrl : 
+    youtubeUrl      : 
