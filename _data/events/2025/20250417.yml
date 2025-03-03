@@ -1,0 +1,51 @@
+date          : 2025-04-17
+last-modified : 2025-03-03
+information   : This is an online meeting and will be streamed on YouTube. The meeting will start at 19&#58;00.
+livestreamUrl : 
+location      :
+address       :
+locationUrl   :
+meetupUrl     : 
+items         :
+  - type      :
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:10"
+  - type            : talk
+    title           : OWASP Top 10 for LLM Apps and Gen.AI Security
+    start           : "19:10"
+    end             : "19:55"
+    abstract        : >-
+                      The OWASP 10 for LLM Apps has been a highly successfully project creating the 
+                      foundation for many other project initiatives including Agentic AI, 
+                      Red Teaming, and LLM Exploit Generation. This session will provide a project 
+                      update with an overview of the latest 2025 Top 10 for LLM apps and the new 
+                      project initiatives
+    speakers        :
+    - name            : John Sotiropoulos
+      picture         : john-sotiropoulos.jpg
+      bio             : >-
+                        John Sotiropoulos is the head of AI Security at Kainos where he is responsible 
+                        for AI security and securing national-scale systems in government, regulators, 
+                        and healthcare. A co-lead of the OWASP Top 10 for Large Language Model (LLM) 
+                        Applications John leads Agentic Security Initiative and alignment with other 
+                        standards organizations and national cybersecurity agencies including NIST, 
+                        MITRE, CSA, the NCSC, and the US AISIC, where he is the OWASP lead. He is the 
+                        author of the bestselling book on Adversarial AI, Attacks, Mitigations, 
+                        and Defense Strategies and   more recently he authored the UK Government’s 
+                        Implementation Guide for the UK Code of Practice for the Cybersecurity of AI, 
+                        both submitted to ETSI for international standardization.
+    presentationUrl : 
+    youtubeUrl      : 
+  - type      :
+    title     : Questions and Break
+    start     : "19:55"
+    end       : "20:05"
+  - type            : 
+    title           : TBD
+    start           : "20:05"
+    end             : "20:50"
+    abstract        : 
+    speakers        :
+    presentationUrl :
+    youtubeUrl      : 
