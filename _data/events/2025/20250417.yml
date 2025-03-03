@@ -5,7 +5,7 @@ livestreamUrl :
 location      :
 address       :
 locationUrl   :
-meetupUrl     : 
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/306515069/
 items         :
   - type      :
     title     : Welcome and OWASP updates
