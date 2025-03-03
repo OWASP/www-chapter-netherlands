@@ -18,7 +18,7 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 ## Next Event - Register Now
 Date: March 19 2025  
 Location: Utrecht  
-Highlights: xplore cutting-edge books and ideas  
+Highlights: Explore cutting-edge books and ideas  
 
 Attendance is free and open to all members of the public.
 
