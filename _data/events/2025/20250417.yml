@@ -1,5 +1,5 @@
 date          : 2025-04-17
-last-modified : 2025-03-03
+last-modified : 2025-03-29
 information   : This is an online meeting and will be streamed on YouTube. The meeting will start at 19&#58;00.
 livestreamUrl : 
 location      :
@@ -56,6 +56,7 @@ items         :
                       security with business objectives. 
     speakers        :
     - name            : Nariman Aga-Tagiyev
+      picture         : nariman-aga-tagiyev.jpg
       bio             : >-
                         Nariman Aga-Tagiyev is an Application Security Architect with over two 
                         decades of experience in software development. Over the course of his 
