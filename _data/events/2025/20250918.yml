@@ -15,11 +15,11 @@ items         :
     title     : Simple meal
     start     : "18:15"
     end       : "19:00"
-  - type      :
+  - type      : 
     title     : Welcome and OWASP updates
     start     : "19:00"
     end       : "19:15"
-  - type            : 
+  - type            : talk
     title           : Beyond the Smoke Screen&#58; Separating Reality from the Rhetoric!!!
     start           : "19:15"
     end             : "20:00"
