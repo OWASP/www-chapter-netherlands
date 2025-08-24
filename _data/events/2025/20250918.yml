@@ -20,19 +20,19 @@ items         :
     start     : "19:00"
     end       : "19:15"
   - type            : 
-    title           : Beyond the Smoke Screen: Separating Reality from the Rhetoric!!!
+    title           : Beyond the Smoke Screen&#58; Separating Reality from the Rhetoric!!!
     start           : "19:15"
     end             : "20:00"
     abstract        : >-
                       This presentation examines AI through a sociotechnical lens, focusing on 
                       security implications beyond traditional cybersecurity paradigms. AI 
-                      systems are embedded within social structures involving hidden &quot;ghost work&quot;
+                      systems are embedded within social structures involving hidden “ghost work“
                       from Global South communities, creating digital colonialism while consuming 
                       massive environmental resources. Sociotechnical risk analysis reveals 
                       vulnerabilities extending from technical attacks (adversarial examples, 
                       data poisoning) to social manipulation through deepfakes and weaponized 
                       misinformation. These risks are amplified by model opacity, concentrated 
-                      capabilities, and the dangerous misalignment between AI&apos;s actual 
+                      capabilities, and the dangerous misalignment between AI’s actual 
                       pattern-recognition abilities and social perceptions of intelligence. Security 
                       professionals must understand that AI deployment creates new attack surfaces in 
                       critical infrastructure while being simultaneously promoted as security solutions. 
@@ -50,7 +50,7 @@ items         :
                         in Cybersecurity, I have numerous industry certifications including diploma 
                         in emerging technologies like GenAI and Quantum Mechanics and Post quantum 
                         Cryptography. I am part time security trainer and also runs a you tube 
-                        channel spreading knowledge free of cost. I don&apos;t have much free time but 
+                        channel spreading knowledge free of cost. I don’t have much free time but 
                         whatever i manage to get, i spent on fitness.
     presentationUrl : 
     youtubeUrl      : 
