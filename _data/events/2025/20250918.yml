@@ -58,11 +58,24 @@ items         :
     title     : Break
     start     : "20:00"
     end       : "20:15"
-  - type            : 
-    title           : T.B.D.
+  - type            : talk
+    title           : Fun with AI
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
+    abstract        : >-
+                      An energized and fun exploration of the bad things you can do with free to use AI 
+                      tools. How could somebody on the level of a script kiddie use AI to become way more 
+                      successful and harmful to their targets. From crafting better spam emails to writing 
+                      actual malware payloads, AI can do it all for you in the blink of an eye. So how could 
+                      you actually do it?
     speakers        :
+    - name            : Sebastiaan van der Meer
+      picture         : sebastiaan-van-der-meer.jpg
+      bio             : >-
+                        Sebastiaan van der Meer is a seasoned expert in DevOps, Cloud, and Security. With 
+                        extensive experience as a trainer, consultant, and advisor, he specializes in helping 
+                        organizations innovate and grow through Product Led Sales and SaaS product development. 
+                        Sebastiaan is passionate about making technology add value and empowering businesses 
+                        to achieve their goals through strategic IT solutions.
     presentationUrl :
     youtubeUrl      : 
