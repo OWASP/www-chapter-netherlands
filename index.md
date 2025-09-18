@@ -21,6 +21,8 @@ Date: September 18 2025
 Location: Trend Micro, Amsterdam    
 Highlights: AI Security  
 
+See [the event page](allevents#september-18-2025) for more information.  
+
 Attendance is free and open to all members of the public.
 
 ## Call for Speakers
