@@ -1,0 +1,35 @@
+date          : 2026-05-21
+last-modified : 2026-02-10
+page          : upcomming
+information   : This is an online meeting and will be streamed on YouTube. The meeting will start at 19&#58;00.
+livestreamUrl :
+location      : 
+address       : 
+locationUrl   : 
+locationInfo  : 
+meetupUrl     :
+items         :
+  - type      :
+    title     : Welcome and OWASP updates
+    start     : "19:00"
+    end       : "19:10"
+  - type            : talk
+    title           : TBD
+    start           : "19:10"
+    end             : "19:55"
+    abstract        : 
+    speakers        :
+    presentationUrl : 
+    youtubeUrl      : 
+  - type      :
+    title     : Questions and Break
+    start     : "19:55"
+    end       : "20:05"
+  - type            : talk
+    title           : TBD
+    start           : "20:05"
+    end             : "20:50"
+    abstract        : 
+    speakers        :
+    presentationUrl :
+    youtubeUrl      : 
