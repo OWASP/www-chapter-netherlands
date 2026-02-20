@@ -1,5 +1,5 @@
 date          : 2026-04-16
-last-modified : 2026-02-10
+last-modified : 2026-02-20
 page          : upcomming
 information   : 
 livestreamUrl :
@@ -7,7 +7,7 @@ location      : TBD
 address       : 
 locationUrl   : 
 locationInfo  : 
-meetupUrl     :
+meetupUrl     : https://www.meetup.com/owasp-chapter-netherlands-meetup/events/313433530/
 items         :
   - type      : 
     title     : Reception of attendees
