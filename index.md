@@ -18,7 +18,7 @@ The OWASP Netherlands Chapter is an extension of the Global OWASP Foundation, in
 
 ## Next Event 
 Date: April 16th 2026  
-Location: TBD  
+Location: Beyond Republica campus, Amsterdam  
 Highlights: TBD  
 
 Attendance is free and open to all members of the public.
