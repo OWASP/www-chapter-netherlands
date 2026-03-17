@@ -23,30 +23,71 @@ items         :
     start     : "18:00"
     end       : "18:15"
   - type      : 
-    title     : Pizza
+    title     : Simple meal
     start     : "18:15"
     end       : "19:00"
   - type      : 
     title     : Welcome and OWASP updates
     start     : "19:00"
     end       : "19:15"
-  - type            : 
-    title           : TBD
+  - type            : talk
+    title           : False Clear Ahead - When Agents Derail Your Defenses
     start           : "19:15"
     end             : "20:00"
-    abstract        : 
+    abstract        : >-
+                      AI agents that pass an initial security review can still derail through prompt 
+                      injection, tool poisoning, or destructive overalignment — the "false clear." 
+                      Drawing on recent research, real-world incidents, and AI governance at Dutch 
+                      Railways, this talk explores how agentic AI reshapes the enterprise attack 
+                      surface and what defense-in-depth strategies help you govern agents without 
+                      blocking innovation.
     speakers        :
+    - name            : Rens van Dongen
+      picture         : rens_van_dongen.jpg
+      bio             : >-
+                        AI Governance and Cybersecurity strategist, specializing in responsible AI 
+                        and secure software policy for the Dutch Railways. Experienced CISO in Retail 
+                        Banking, Media Broadcasting and Enterprise Software industries. Balancing 
+                        engineering background with a pragmatic, people-centric approach. Credentials 
+                        include AIGP, CISSP, CISM, CCSP, CIPP/e, and Lead Implementer ISO/IEC 42001:2023 
+                        (AIMS).
     presentationUrl : 
     youtubeUrl      : 
   - type            :
     title           : Break with drinks
     start           : "20.00"
     end             : "20:15"
-  - type            : 
-    title           : TBD
+  - type            : talk
+    title           : Bot vs. Bash: How Modern Threat Actors are Actually Using AI
     start           : "20:15"
     end             : "21:00"
-    abstract        : 
+    abstract        : >-
+                      Generative AI has rapidly shifted to become a defining element of the modern 
+                      threat landscape. This has resulted in great interest from a cybersecurity 
+                      perspective and numerous discussions about its potential impacts. However, moving 
+                      beyond speculation, this session presents real-world observations from the front 
+                      lines of threat intelligence to demonstrate exactly how adversaries are utilizing 
+                      these tools today.<br />
+                      <br />
+                      We will explore how state-sponsored APTs and financially motivated actors integrate 
+                      Large Language Models (LLMs) to sharpen the quality of social engineering, 
+                      reconnaissance, and code generation. Rather than focusing on "super-malware" 
+                      theories, we dive into specific "in the wild" use cases to provide defenders with 
+                      the practical context needed to identify and counter AI-augmented threats within 
+                      their own environments.
     speakers        : 
+    - name            : Daniel Kapellmann Zafra
+      picture         : daniel_zafra.jpg
+      bio             : >-
+                        Daniel Kapellmann Zafra is Technology Strategy Lead in Google Threat Intelligence,
+                        where he designs the future of large-scale investigative frameworks. With a 
+                        specialized background in Information Operations (IO) and Cyber-Physical threats, 
+                        Daniel has spent his career working with different threat intelligence teams to 
+                        scale the breadth and depth of intelligence investigations. He currently spearheads 
+                        initiatives at the intersection of AI and threat intelligence, focusing on how 
+                        emerging AI ecosystems redefine both the threat landscape and the efficiency of 
+                        modern cybersecurity. A former Fulbright Scholar and University of Washington 
+                        Informatics alumnus, Daniel was previously recognized by the Kaspersky Academy 
+                        Talent Lab for innovation in security architecture.
     presentationUrl : 
     youtubeUrl      : 
