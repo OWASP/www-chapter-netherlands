@@ -1,2 +1,2 @@
-<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://infosecmap.com/"><img src="assets/images/InfoSecMap-logo.png" alt="InfoSecMap" style="width: 300px; display: block;"></a></div><br />
-<div style="width: 300px; display: inline-block; margin-right: 10px;"><a href="https://infosecmap.com/">InfoSecMap</a>is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.</div>
+<a href="https://infosecmap.com/"><img src="assets/images/InfoSecMap-logo.png" alt="InfoSecMap"></a><br />
+<a href="https://infosecmap.com/">InfoSecMap</a> is your global go-to platform to explore the cybersecurity ecosystem. Discover conferences, CTFs, meetups, podcasts, and more, plus opportunities like call for papers, sponsors, and volunteers. Always community-first and free to use.
