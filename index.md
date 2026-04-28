@@ -39,6 +39,7 @@ Please consider becoming an OWASP member today to support your local chapter, an
 
 **To stay in the loop with all event news, project launches, opportunities, and OWASP Global highlights, follow us on [LinkedIn](https://www.linkedin.com/groups/1987229/), [Twitter](https://twitter.com/owasp_nl), and join our [Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/netherlands-chapter).**
 
+## Community partners 
 {% include infosecmap.md %}
 
 {% include sponsors.md %}
