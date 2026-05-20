@@ -1,0 +1,33 @@
+community:
+  - name: chapter-netherlands
+    platform: slack
+    url: https://owasp.slack.com/archives/C071Q8DQA
+    description: OWASP Chapter Netherlands [https://www.owasp.org/index.php/Netherlands]
+leaders:
+  - name: Edwin Gozeling
+    email: edwin.gozeling@owasp.org
+    github: EdwinGozeling
+  - name: Irfaan Santoe
+    email: irfaan.santoe@owasp.org
+    github: irfaansantoe
+  - name: Joren Poll
+    email: joren.poll@owasp.org
+  - name: Priyam Awasthy
+    email: priyam.awasthy@owasp.org
+location:
+  country: Netherlands
+  country_code: NL
+  region: Europe
+  latitude: 52.2434979
+  longitude: 5.6343227
+meetup_group: OWASP-Chapter-Netherlands-Meetup
+name: OWASP Netherlands
+repositories:
+  - name: www-chapter-netherlands
+    url: https://github.com/OWASP/www-chapter-netherlands
+    description: OWASP Foundation Web Repository
+tags:
+  - netherlands
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-netherlands
